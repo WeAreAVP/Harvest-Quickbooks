@@ -5,31 +5,95 @@ import csv
 from array import *
 import json
 
+#Welcome message
 print("\nWelcome to the Converter Program!!! \n \n")
 
+#Retreiving the user input
 val = raw_input("Please enter file name of the iif file with the extension: ")
 
-
-data = [{}] * 30
-labels = [""]
+headers = [""] * 0
+headersCont = {}
+data = [{}] * 0 #data array of dictionaries
+labels = [""] * 0 #header array of strings
 count = 0
 temp = {}
+length = 0
 
 
+#The iif file is read in
 with open(val, 'r') as csvfile:
     spamreader = csv.reader(csvfile, delimiter='\t', quotechar='|')
+
     for row in spamreader:
-        #print(row[0:9])
-        if count == 2:
+        length = len(row)
+        if count == 0:
+            for r in row:
+                headers.append(r)
+            
+        if count == 1:
+            for r in range(0, len(row)):
+                headersCont[headers[r]] = row[r]
+                
+                
+        if count == 2: #appending header names to label array
             for r in row:
                 labels.append(r)
-        if count > 2:
-            for r in row:
-                for l in labels:
-                    temp[l] = r
-                    data.append(r)
-                   # print(temp[l])
+                #print(r)
+        if count > 2: #appending the rest of the contents
+            for r in range(0, len(row)):
+                    temp[labels[r]] = row[r]
+            data.append(temp)
+            temp = {}
         count += 1
+        
+        
+        
+#for d in range(0, len(data)):
+#    print(data[d])
+       
+#print(headersCont)
+
+#print(labels)
+#
+#print("\n \n")
+#
+#print(data)
+#
+#
+
+int = 0
+iif_file = "newData.iif"
+try:
+    with open(iif_file, 'w') as csvfile: #writing the new file
+    
+        writer = csv.DictWriter(csvfile, headers, delimiter='\t')
+        writer.writeheader()
+        writer.writerow(headersCont) #writing in the first two lines
+                
+        for d in range(0, len(data)):
+            if int == 0:
+                writer = csv.DictWriter(csvfile, labels, delimiter='\t')
+                writer.writeheader() #writing in the third line
+            
+            if int >= 0:
+                writer.writerow(data[d]) #writing in the rest of the data
+            int += 1
+except IOError:
+    print("I/O error") #Error message
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
         
 #labels.pop(0)
 #for i in labels:
@@ -39,10 +103,12 @@ with open(val, 'r') as csvfile:
 #    if d != {}:
 #        print(d)
     
-for x in data:
-    print(x)
-    #for l in labels:
-            #print(x[""])
+#for x in data:
+#    print(x)
+    
+#print(data)
+#    for l in labels:
+#            print(l)
         
 
 

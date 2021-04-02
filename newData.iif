@@ -1,0 +1,627 @@
+!TIMERHDR	VER	REL	COMPANYNAME	IMPORTEDBEFORE	FROMTIMER	COMPANYCREATETIME
+TIMERHDR	 9	 0	AudioVisual Preservation Solutions, Inc.	N	Y	1235338105
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	BILLINGSTATUS
+TIMEACT	1/3/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	00:46			1
+TIMEACT	1/4/21	MEEMOO:INVENTORY REGISTRATION	Pamela Vizner Oyarce	Documentation-Consultant	""""""	01:30		Draft documentation finished and copied to Confluence.	1
+TIMEACT	1/4/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 2: NWF Database Admin	""""""	00:35		Planning, updates	1
+TIMEACT	1/4/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	03:15		Reviewing link tickets; Internal team check in; Updates to BioViz workflow configurations	1
+TIMEACT	1/4/21	CAPITAL GROUP:FY 2021	Amy Rudersdorf	General Consulting & PDF Archi	""""""	00:20		Internal meeting	1
+TIMEACT	1/4/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	01:15		Scrum and general management	1
+TIMEACT	1/4/21	CAPITAL GROUP:FY 2021	Pamela Vizner Oyarce	Video Collection	""""""	00:25		Internal standup. Replied to Joanne/Lisa email.	1
+TIMEACT	1/4/21	PRESERVICA:FCCS	Pamela Vizner Oyarce	Digitized CSM Photographs Cons	""""""	00:15		Checked import errors, replied to service desk ticket.	1
+TIMEACT	1/4/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	02:50		Installing Scribe	1
+TIMEACT	1/4/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Shawn Averkamp	Project Management	""""""	01:12		Check-in with AWE team	1
+TIMEACT	1/4/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Project Management	""""""	00:15		Internal team check in	1
+TIMEACT	1/4/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Rebecca Chandler	Initial release compiled appli	""""""	00:30		check in	1
+TIMEACT	1/4/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	00:15		Internal standup.	1
+TIMEACT	1/4/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	00:30		Internal standup	1
+TIMEACT	1/4/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	03:30		Reviewed and responded to link tickets, reviewed feedback from BioViz workflows, configured field permissions. Updated validation sheet.	1
+TIMEACT	1/4/21	MEEMOO:INVENTORY REGISTRATION	Pamela Vizner Oyarce	Testing and quality assurance-	""""""	00:15		Final sprint QA.	1
+TIMEACT	1/4/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	02:35			1
+TIMEACT	1/4/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Kara Van Malssen	Data modeling and packaging	""""""	01:30		Metadata workshop prep	1
+TIMEACT	1/4/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Project Management	""""""	01:30		Internal Spotify prep for call tomorrow, drafting project plan, communications, general project management	1
+TIMEACT	1/4/21	FEDERAL RESERVE BANK OF ST. LOUIS:RFP SUPPORT SERVICES	Amy Rudersdorf	Discovery & RFP Support	""""""	00:15		Biweekly FRB project update drafted and emailed	1
+TIMEACT	1/4/21	CAPITAL GROUP:FY 2021	Amy Rudersdorf	General Consulting & PDF Archi	""""""	00:30		CG internal standup meeting	1
+TIMEACT	1/4/21	YALE:FORTUNOFF USHMM	Bertram Lyons	Project Management	""""""	01:00			1
+TIMEACT	1/4/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Bertram Lyons	Publish manifest - Consulting	""""""	01:00			1
+TIMEACT	1/4/21	NEW ORLEANS JAZZ AND HERITAGE FOUNDATION:DIGITAL PRESERVATION SUPPORT SERVICES	Bertram Lyons	NAS Storage Solution Configura	""""""	01:00			1
+TIMEACT	1/4/21	FBI:PHASE 3 PART 2	Bertram Lyons	Project Management	""""""	01:00			1
+TIMEACT	1/4/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Bertram Lyons	Proof of concept source code f	""""""	00:30			1
+TIMEACT	1/4/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	04:00		Dan Portal #7598	1
+TIMEACT	1/4/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	02:00		Development / Dan Fischer	1
+TIMEACT	1/4/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Project Management and Meeting	""""""	00:30			1
+TIMEACT	1/4/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	04:00			1
+TIMEACT	1/4/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Statistical Analysis of Medex'	""""""	01:00			1
+TIMEACT	1/4/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	06:00			1
+TIMEACT	1/4/21	AVP:MEDEX	Brandon Wiemann	Project Management	""""""	02:00			1
+TIMEACT	1/4/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	01:00		workshop brainstorming	1
+TIMEACT	1/4/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Project Management	""""""	02:00		kick off prep	1
+TIMEACT	1/5/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	04:00		Sprint 2 validation prep	1
+TIMEACT	1/5/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 2: NWF Database Admin	""""""	02:34		Project management--reviewing budget and remaining tasks	1
+TIMEACT	1/5/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	01:30		Internal team meeting; Scheduling FB/AVP Dev call	1
+TIMEACT	1/5/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	00:11			1
+TIMEACT	1/5/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	00:40			1
+TIMEACT	1/5/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Rebecca Chandler	[SME] AVP will work with NA to	""""""	01:15		upload missing video files to existing resources	1
+TIMEACT	1/5/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	02:00		Workflow database design, yellow pages interview	1
+TIMEACT	1/5/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	01:15		Sprint planning, prep, and follow up	1
+TIMEACT	1/5/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Amy Rudersdorf	Project Management	""""""	00:15		Communications	1
+TIMEACT	1/5/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Project Management	""""""	02:30		Prep for kick off meeting and internal project management; decomposing milestones; updating the project plan	1
+TIMEACT	1/5/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Project Management	""""""	01:00		Weekly team meeting	1
+TIMEACT	1/5/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Project Management	""""""	01:01		kickoff, follow up	1
+TIMEACT	1/5/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	00:16		MP check in call	1
+TIMEACT	1/5/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Phase 1: Understand and Define	""""""	01:00		Interview call with Natalie Burclaff	1
+TIMEACT	1/5/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Project Management	""""""	01:00		AVP <> Spotify Q1 Kick Off meeting	1
+TIMEACT	1/5/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	01:30		AMPPD Core Team & Stakeholders meeting, prep, and follow up	1
+TIMEACT	1/5/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	01:20		Core team meeting	1
+TIMEACT	1/5/21	MEEMOO:INVENTORY REGISTRATION	Pamela Vizner Oyarce	Testing and quality assurance-	""""""	00:45		QA for sprint 6	1
+TIMEACT	1/5/21	MEEMOO:INVENTORY REGISTRATION	Pamela Vizner Oyarce	Demos & Meetings-Consultant	""""""	01:25		Sprint 6 demo and demo prep.	1
+TIMEACT	1/5/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:45		Team standup	1
+TIMEACT	1/5/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	03:25		Prepared for UAT. UAT for sprint 2.	1
+TIMEACT	1/5/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	01:00		Standup with Mayo team.	1
+TIMEACT	1/5/21	MEEMOO:INVENTORY REGISTRATION	Nouman Tayyab	Demos & Meetings	""""""	01:45		Internal meeting with Pamela + demo prep + demo meeting with meemoo team	1
+TIMEACT	1/5/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	01:00		internal meeting with Kerri, Bert, David and Pamela	1
+TIMEACT	1/5/21	YALE:BEINECKE - USER MANAGEMENT AND ACCESS REQUESTS	Furqan Wasi	Coding	""""""	06:00		AVIARY-2192 As an org admin, for each Collection, I can configure email address recipients for access request emails	1
+TIMEACT	1/5/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Bertram Lyons	[SME] Project Management -	""""""	01:00			1
+TIMEACT	1/5/21	INDIANA UNIVERSITY:AMPPD	Bertram Lyons	Subject Matter Expert	""""""	01:00			1
+TIMEACT	1/5/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	04:00		Dan Portal #7598	1
+TIMEACT	1/5/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	03:00		Development / Dan Fischer	1
+TIMEACT	1/5/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	05:00			1
+TIMEACT	1/5/21	AVP:MEDEX	Dan Fischer	Coding	""""""	01:00			1
+TIMEACT	1/6/21	YALE:FORTUNOFF ANNOTATIONS DEVELOPMENT	Nouman Tayyab	Coding	""""""	02:00		AVIARY-2225 Troubleshoot Fortunoff Annotation creation issues	1
+TIMEACT	1/6/21	YALE:BEINECKE - USER MANAGEMENT AND ACCESS REQUESTS	Furqan Wasi	Coding	""""""	04:00		AVIARY-2192 As an org admin, for each Collection, I can configure email address recipients for access request emails	1
+TIMEACT	1/6/21	YALE:BEINECKE - USER MANAGEMENT AND ACCESS REQUESTS	Furqan Wasi	Coding	""""""	04:00		AVIARY-2194 As an org admin, I can grant specific org users the ability to access admin tabs that they don't currently have access to	1
+TIMEACT	1/6/21	MEEMOO:VIAA AMS	Nouman Tayyab	Coding	""""""	02:00		AMSVIAA-1200 Add format versions to DV and DVCAM	1
+TIMEACT	1/6/21	MEEMOO:VIAA AMS	Nouman Tayyab	Coding	""""""	01:00		AMSVIAA-1201 Digitization import dvd not correctly shown	1
+TIMEACT	1/6/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	04:30		Sprint 2 validation; Watermark display and review; DAM team validation walkthrough	1
+TIMEACT	1/6/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	02:30		Prepping for team kickoff meeting; Dev team sync; Project Team kickoff call	1
+TIMEACT	1/6/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	03:00			1
+TIMEACT	1/6/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	01:15		Backlog grooming; prep for next Core Team meeting; communications with Thomas Whittaker; Uploading files to and configuring 3PlayMedia with Jon Cameron's assistance	1
+TIMEACT	1/6/21	WNET:ARCHIVE PLATFORM MIGRATION PHASE 1	Shawn Averkamp	Finalize draft of inventory wi	""""""	04:19		""""""	1
+TIMEACT	1/6/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	01:15		Sprint 2 UAT	1
+TIMEACT	1/6/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Project Management	""""""	06:00		milestone decomposition, meeting with Keisha and Layerframe	1
+TIMEACT	1/6/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Project Management	""""""	03:00		Editorial tooling standup, follow up; developing activities and tasks list; meeting with Marketing, prep, and follow up	1
+TIMEACT	1/6/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""""""	00:30		Check-in with JFK (MOVE TO 2021 WORKPLAN)	1
+TIMEACT	1/6/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	01:38			1
+TIMEACT	1/6/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	00:30		xfn metadata workshop prep	1
+TIMEACT	1/6/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	00:45		Meeting with Mayo to review watermarks.	1
+TIMEACT	1/6/21	CAPITAL GROUP:FY 2021	Pamela Vizner Oyarce	Video Collection	""""""	03:00		Replied to emails about the video migration project, created migration plan diagram, prepared agenda for meetings next week.	1
+TIMEACT	1/6/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	02:10		Prep for kickoff meeting with Kerri. Meeting with FB Dev (Marin), project kick-off.	1
+TIMEACT	1/6/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Kara Van Malssen	Data modeling and packaging	""""""	01:00		Workshop planning meeting	1
+TIMEACT	1/6/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Bertram Lyons	[SME] Project Management -	""""""	01:00			1
+TIMEACT	1/6/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Bertram Lyons	Proof of concept source code f	""""""	00:30			1
+TIMEACT	1/6/21	NEW ORLEANS JAZZ AND HERITAGE FOUNDATION:DIGITAL PRESERVATION SUPPORT SERVICES	Bertram Lyons	NAS Storage Solution Configura	""""""	00:30			1
+TIMEACT	1/6/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	02:00		Development / Dan Fischer	1
+TIMEACT	1/6/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	03:00			1
+TIMEACT	1/6/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Statistical Analysis of Medex'	""""""	01:00			1
+TIMEACT	1/6/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	01:00			1
+TIMEACT	1/6/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Rebecca Chandler	Initial release compiled appli	""""""	00:30		check in	1
+TIMEACT	1/7/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	01:00		Meeting with the Facebook team and AVP 	1
+TIMEACT	1/7/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	00:30		meeting with Marin regarding facebook question	1
+TIMEACT	1/7/21	MEEMOO:INVENTORY REGISTRATION	Nouman Tayyab	Demos & Meetings	""""""	01:00		looked into the details of the issue that meemoo team is having and did some adjustments to figure out the problem. But still its not successful	1
+TIMEACT	1/7/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - Playback	""""""	05:29		Playback and picking up test	1
+TIMEACT	1/7/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	05:00		Sprint 2 validation; OL weekly sync	1
+TIMEACT	1/7/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Project Management	""""""	00:30		Internal team sync	1
+TIMEACT	1/7/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	02:35			1
+TIMEACT	1/7/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Project Management	""""""	01:00		Weekly sync with OL; Call with DAM Ops	1
+TIMEACT	1/7/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Project Management	""""""	02:30		Meeting with Ofir and Bryan, prep for meeting, and follow up	1
+TIMEACT	1/7/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	02:00		Planning for AMP follow-on grant, follow up communications	1
+TIMEACT	1/7/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	00:45		OKR development	1
+TIMEACT	1/7/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	04:15		UAT for Sprint 2. Internal coordination meetings.	1
+TIMEACT	1/7/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	01:00		Weekly sync with OL.	1
+TIMEACT	1/7/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	01:15		Weekly sync with OL. Meeting with Jaclyn.	1
+TIMEACT	1/7/21	WNET:ARCHIVE PLATFORM MIGRATION PHASE 1	Shawn Averkamp	Share data with Media Operatio	""""""	04:18		Training prep and training	1
+TIMEACT	1/7/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	01:15		Grant proposal prep meeting; communications	1
+TIMEACT	1/7/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Project Management	""""""	00:30		Internal check-in	1
+TIMEACT	1/7/21	YALE:BEINECKE - USER MANAGEMENT AND ACCESS REQUESTS	Furqan Wasi	Coding	""""""	03:00		AVIARY-2194 As an org admin, I can grant specific org users the ability to access admin tabs that they don't currently have access to  Minor Fixes	1
+TIMEACT	1/7/21	YALE:BEINECKE - USER MANAGEMENT AND ACCESS REQUESTS	Furqan Wasi	Coding	""""""	02:00		AVIARY-2192 As an org admin, for each Collection, I can configure email address recipients for access request emails	1
+TIMEACT	1/7/21	INDIANA UNIVERSITY:AMPPD	Bertram Lyons	Subject Matter Expert	""""""	01:00			1
+TIMEACT	1/7/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	03:00		Wes Portal #7598	1
+TIMEACT	1/7/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	03:00		Development / Dan Fischer	1
+TIMEACT	1/7/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Statistical Analysis of Medex'	""""""	03:00			1
+TIMEACT	1/7/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	05:00			1
+TIMEACT	1/7/21	AVP:MEDEX	Dan Fischer	Coding	""""""	02:00			1
+TIMEACT	1/7/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	03:30		meeting, Configuration	1
+TIMEACT	1/7/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	01:00		FMR check in	1
+TIMEACT	1/7/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Rebecca Chandler	[SME] AVP will work with NA to	""""""	01:30		demo/retro	1
+TIMEACT	1/8/21	YALE:FORTUNOFF ANNOTATIONS DEVELOPMENT	Nouman Tayyab	Coding	""""""	02:00		AVIARY-2225 Troubleshoot Fortunoff Annotation creation issues	1
+TIMEACT	1/8/21	YALE:FORTUNOFF ANNOTATIONS DEVELOPMENT	Nouman Tayyab	Coding	""""""	01:30		AVIARY-2232 Can't add annotation with Firefox.	1
+TIMEACT	1/8/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	02:00		Sprint 2 validation	1
+TIMEACT	1/8/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	01:00			1
+TIMEACT	1/8/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - check in meetings	""""""	00:34		COVID test	1
+TIMEACT	1/8/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 2: NWF Database Admin	""""""	01:26		Communications, internal check-in	1
+TIMEACT	1/8/21	CAPITAL GROUP:FY 2021	Pamela Vizner Oyarce	Video Collection	""""""	01:30		Tested XML imports, reported bug in link. Uploaded samples assets to test. Sent agenda, migration diagram and new meeting invitations.	1
+TIMEACT	1/8/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	00:18		Reviewing grant proposal prospectus	1
+TIMEACT	1/8/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	02:25		""""""	1
+TIMEACT	1/8/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	02:48		OKR draft plan	1
+TIMEACT	1/8/21	BOSTON PUBLIC LIBRARY:DIGITAL PRESERVATION VISIONING SURVEY & WORKSHOP	Rebecca Chandler	Survey	""""""	01:00		survey drafting	1
+TIMEACT	1/8/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	01:30		xfn workshop prep	1
+TIMEACT	1/8/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Pilot / user testing	""""""	02:00		ALP usage rights meeting, followup, form drafting	1
+TIMEACT	1/8/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	02:00		playback QC review	1
+TIMEACT	1/8/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Kara Van Malssen	Data modeling and packaging	""""""	00:30		workshop prep	1
+TIMEACT	1/8/21	BOSTON PUBLIC LIBRARY:DIGITAL PRESERVATION VISIONING SURVEY & WORKSHOP	Kara Van Malssen	Survey	""""""	00:30		Survey prep	1
+TIMEACT	1/8/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	04:30		Final UAT, submitted link tickets for Sprint 2 feedback.	1
+TIMEACT	1/8/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Phase 2a: Workflow Prototypes 	""""""	00:45		Sprint demo	1
+TIMEACT	1/8/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	02:30		Meeting with Andy / ALP and follow up with Bryan. Creating survey mock ups, communications with Ofir, and updating Trello board	1
+TIMEACT	1/8/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Amy Rudersdorf	Project Management	""""""	01:00		Internal sprint planning	1
+TIMEACT	1/8/21	CAPITAL GROUP:FY 2021	Amy Rudersdorf	Video Collection	""""""	00:30		Review of deliverables	1
+TIMEACT	1/8/21	WNET:ARCHIVE PLATFORM MIGRATION PHASE 1	Shawn Averkamp	Finalize draft of inventory wi	""""""	00:45		Finalize sql queries for workflows	1
+TIMEACT	1/8/21	MEEMOO:INVENTORY REGISTRATION	Raza Saleem	Admin Create and Manage Projec	""""""	03:30		MIPPS-63 As the Admin, I am able to revert a carrier confirmation, so that it is no longer considered for a project.	1
+TIMEACT	1/8/21	MEEMOO:INVENTORY REGISTRATION	Raza Saleem	Admin Create and Manage Projec	""""""	03:30		MIPPS-80 As any user, I can see an estimated total amount of GB that the total number of carriers would represent, so that I can plan for it.	1
+TIMEACT	1/8/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	01:00		meeting with David	1
+TIMEACT	1/8/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	04:00		Wes Portal #7598	1
+TIMEACT	1/8/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	04:00		Dan Portal #7598	1
+TIMEACT	1/8/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	02:00			1
+TIMEACT	1/8/21	AVP:MEDEX	Brandon Wiemann	Meetings	""""""	01:00			1
+TIMEACT	1/8/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	06:00			1
+TIMEACT	1/8/21	AVP:MEDEX	Dan Fischer	Coding	""""""	01:00			1
+TIMEACT	1/10/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	03:22			1
+TIMEACT	1/11/21	MEEMOO:VIAA AMS	Nouman Tayyab	Coding	""""""	00:30		AMSVIAA-1200 Add format versions to DV and DVCAM	1
+TIMEACT	1/11/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	04:33			1
+TIMEACT	1/11/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	00:48		CLAMS meeting, communications	1
+TIMEACT	1/11/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - Automated tests	""""""	03:41		""""""	1
+TIMEACT	1/11/21	WNET:ARCHIVE PLATFORM MIGRATION PHASE 1	Shawn Averkamp	Finalize draft of inventory wi	""""""	01:00		Finalizing workflows and documentation	1
+TIMEACT	1/11/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	01:45		Call with OL; Internal team meeting	1
+TIMEACT	1/11/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	01:00		Meeting with OL Project Manager to go over workflows and AVP's test methodology. Internal meeting.	1
+TIMEACT	1/11/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	01:05		Verified tabs configurations. Ed photos workflow feedback session with Mayo.	1
+TIMEACT	1/11/21	PRESERVICA:FCCS	Pamela Vizner Oyarce	Digitized CSM Photographs Cons	""""""	00:15		Reviewed overall package progress, checked remaining work, communications with developer.	1
+TIMEACT	1/11/21	MEEMOO:INVENTORY REGISTRATION	Pamela Vizner Oyarce	Documentation-Consultant	""""""	01:30		Continued updating documentation.	1
+TIMEACT	1/11/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 1:  Visipec API Monit	""""""	02:00		Meeting on CAR logic, follow-up communications	1
+TIMEACT	1/11/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	00:45		OKR drafting; Sprint schedule planning	1
+TIMEACT	1/11/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Project Management	""""""	03:00		Biweekly sprint planning, prep, and follow up; standup	1
+TIMEACT	1/11/21	MEEMOO:INVENTORY REGISTRATION	Pamela Vizner Oyarce	Testing and quality assurance-	""""""	00:20		QA for last tickets.	1
+TIMEACT	1/11/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:45		Internal planning meeting	1
+TIMEACT	1/11/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Project Management	""""""	00:30		Link tickets	1
+TIMEACT	1/11/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	01:30		Metadata mapping	1
+TIMEACT	1/11/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	00:15		Communications with Patrick	1
+TIMEACT	1/11/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Configuration and Validation	""""""	00:45		Sprint 1 demo with OL	1
+TIMEACT	1/11/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Project Management	""""""	02:00		Editorial Tooling Sprint Planning, Standing meeting	1
+TIMEACT	1/11/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Rebecca Chandler	Initial release compiled appli	""""""	00:30		check in	1
+TIMEACT	1/11/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	01:30		review QC, update spreadsheet, prep for MP call	1
+TIMEACT	1/11/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	00:45		taxonomy prep	1
+TIMEACT	1/11/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	01:30		meeting with david to explore the code and how to work with ENT + reviewed the documentation before the meeting	1
+TIMEACT	1/11/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Configuration and Validation	""""""	00:30		Sprint demo call with OL.	1
+TIMEACT	1/11/21	FBI:PHASE 3 PART 2	Bertram Lyons	Project Management	""""""	00:30			1
+TIMEACT	1/11/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Bertram Lyons	Proof of concept source code f	""""""	00:30			1
+TIMEACT	1/11/21	NEW ORLEANS JAZZ AND HERITAGE FOUNDATION:DIGITAL PRESERVATION SUPPORT SERVICES	Bertram Lyons	NAS Storage Solution Configura	""""""	00:30			1
+TIMEACT	1/11/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	02:00		Wes Portal #7598	1
+TIMEACT	1/11/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	03:00		Wes Portal #7598	1
+TIMEACT	1/11/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 4: Visipec API Implem	""""""	02:00		Dan Portal #7598	1
+TIMEACT	1/11/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	01:00		Development / Dan Fischer	1
+TIMEACT	1/11/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	06:00			1
+TIMEACT	1/11/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Project Management and Meeting	""""""	00:30			1
+TIMEACT	1/11/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Statistical Analysis of Medex'	""""""	01:00			1
+TIMEACT	1/11/21	AVP:MEDEX	Brandon Wiemann	Project Management	""""""	01:00			1
+TIMEACT	1/11/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	01:00			1
+TIMEACT	1/11/21	AVP:MEDEX	Dan Fischer	Coding	""""""	02:00			1
+TIMEACT	1/12/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	01:30		meeting with David and reviewed the documentation before the meeting	1
+TIMEACT	1/12/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	01:03			1
+TIMEACT	1/12/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	02:15		Internal developer meeting; Sprint plan; Update/share OKR with project partners	1
+TIMEACT	1/12/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Project Management	""""""	01:30		Burn down/hours review; Weekly team sync	1
+TIMEACT	1/12/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	02:00		Sprint schedule and planning. Internal standup. Sent meeting invitations for upcoming sprints.	1
+TIMEACT	1/12/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	01:00		call with Bryan, check in with Kara	1
+TIMEACT	1/12/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	03:00		workshop prep	1
+TIMEACT	1/12/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - Automated tests	""""""	00:44		""""""	1
+TIMEACT	1/12/21	MEEMOO:INVENTORY REGISTRATION	Pamela Vizner Oyarce	Documentation-Consultant	""""""	00:45		Final documentation edits.	1
+TIMEACT	1/12/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	01:58			1
+TIMEACT	1/12/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	01:00		internal weekly meeting	1
+TIMEACT	1/12/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - Playback	""""""	00:06		Audio playback	1
+TIMEACT	1/12/21	COUNTY OF SANTA CLARA OFFICE OF THE CLERK OF THE BOARD OF SUPERVISORS:FY 2021	Rebecca Chandler	Project Management	""""""	00:30		internal check in	1
+TIMEACT	1/12/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Requirements Definition & Docu	""""""	01:30		SBAR meeting	1
+TIMEACT	1/12/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	01:25		MP check in, smartsheet review, height discrepancy review	1
+TIMEACT	1/12/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	03:45		AMP Dev Sprint Planning, All-Team meeting, MGM meeting, prep and follow up; communications with Patrick.	1
+TIMEACT	1/12/21	COUNTY OF SANTA CLARA OFFICE OF THE CLERK OF THE BOARD OF SUPERVISORS:FY 2021	Amy Rudersdorf	Project Management	""""""	00:30		Santa Clara internal	1
+TIMEACT	1/12/21	CAPITAL GROUP:FY 2021	Amy Rudersdorf	Video Collection	""""""	01:00		AVP / CG - Video Migration meeting	1
+TIMEACT	1/12/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	02:15		Weekly meeting with Mayo. Prepared for SBAR meeting. SBAR meeting.	1
+TIMEACT	1/12/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	01:30		Metadata mapping	1
+TIMEACT	1/12/21	COUNTY OF SANTA CLARA OFFICE OF THE CLERK OF THE BOARD OF SUPERVISORS:FY 2021	Pamela Vizner Oyarce	Project Management	""""""	00:30		Internal standup.	1
+TIMEACT	1/12/21	CAPITAL GROUP:FY 2021	Pamela Vizner Oyarce	Video Collection	""""""	01:15		Meeting to go over video migration plan and OL meeting agenda. Updated migration diagram, shared agenda for Thursday meeting.	1
+TIMEACT	1/12/21	BOSTON PUBLIC LIBRARY:DIGITAL PRESERVATION VISIONING SURVEY & WORKSHOP	Rebecca Chandler	Workshop	""""""	01:30		prep, meet with Jessica	1
+TIMEACT	1/12/21	BOSTON PUBLIC LIBRARY:DIGITAL PRESERVATION VISIONING SURVEY & WORKSHOP	Kara Van Malssen	Workshop	""""""	01:00		Workshop prep	1
+TIMEACT	1/12/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Kara Van Malssen	Data modeling and packaging	""""""	01:30		Workshop prep	1
+TIMEACT	1/12/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 1:  Visipec API Monit	""""""	03:30		Internal meeting, NP calibration meeting, communications	1
+TIMEACT	1/12/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	02:00		All-team meeting, MGM meeting	1
+TIMEACT	1/12/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	01:38		Workflow data model	1
+TIMEACT	1/12/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""""""	00:15		Communications	1
+TIMEACT	1/12/21	WNET:ARCHIVE PLATFORM MIGRATION PHASE 1	Shawn Averkamp	Finalize draft of inventory wi	""""""	00:30		Updating queries and user guide	1
+TIMEACT	1/12/21	INDIANA UNIVERSITY:AMPPD	Bertram Lyons	Subject Matter Expert	""""""	01:00			1
+TIMEACT	1/12/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Bertram Lyons	[SME] Project Management -	""""""	01:00			1
+TIMEACT	1/12/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	02:00		Wes Portal #7598	1
+TIMEACT	1/12/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	01:00		Wes Portal #7598	1
+TIMEACT	1/12/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 4: Visipec API Implem	""""""	02:00		Wes Portal #7598	1
+TIMEACT	1/12/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	01:00		Development / Dan Fischer	1
+TIMEACT	1/12/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	01:30			1
+TIMEACT	1/12/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Statistical Analysis of Medex'	""""""	02:00			1
+TIMEACT	1/12/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	03:00			1
+TIMEACT	1/13/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Project Management	""""""	01:00		Creating workplace company; Reviewing FB PDX roadmap; Sprint 1 requirements review; 	1
+TIMEACT	1/13/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Documentation & Training	""""""	00:30		SBAR edits based on feedback from Stacey	1
+TIMEACT	1/13/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	00:30		Sprint 2 link ticket review	1
+TIMEACT	1/13/21	PRESERVICA:FCCS	David Agudelo-Frankel	Digitized CSM Photographs Deve	""""""	03:11			1
+TIMEACT	1/13/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Configuration and Validation	""""""	00:30		OL Sprint 1 demo	1
+TIMEACT	1/13/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	01:00		AMP Backlog Grooming; communications; budgeting	1
+TIMEACT	1/13/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	05:30		Editorial Tooling: stand up; Metadata mapping; communications; User Groups and Permissions; Assets Upload Form	1
+TIMEACT	1/13/21	COUNTY OF SANTA CLARA OFFICE OF THE CLERK OF THE BOARD OF SUPERVISORS:FY 2021	Rebecca Chandler	Project Management	""""""	00:24		COB check in	1
+TIMEACT	1/13/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	04:25		Responded to link tickets. BioViz feedback configurations. Ed photography configurations. Prep for BioViz walkthrough.	1
+TIMEACT	1/13/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Configuration and Validation	""""""	00:30		Demo call with OL.	1
+TIMEACT	1/13/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	00:46		metadata comparison review	1
+TIMEACT	1/13/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	01:00		BioViz walkthrough prep	1
+TIMEACT	1/13/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	01:53		prep, asset context	1
+TIMEACT	1/13/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	00:46			1
+TIMEACT	1/13/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	01:30		Dev sync; Project team sync	1
+TIMEACT	1/13/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Rebecca Chandler	[SME] AVP will work with NA to	""""""	00:28		embedded metadata requirements call	1
+TIMEACT	1/13/21	COUNTY OF SANTA CLARA OFFICE OF THE CLERK OF THE BOARD OF SUPERVISORS:FY 2021	Amy Rudersdorf	Project Management	""""""	01:30		Standup and follow up; Project planning and communications	1
+TIMEACT	1/13/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Rebecca Chandler	Initial release compiled appli	""""""	00:31		check in	1
+TIMEACT	1/13/21	COUNTY OF SANTA CLARA OFFICE OF THE CLERK OF THE BOARD OF SUPERVISORS:FY 2021	Pamela Vizner Oyarce	Project Management	""""""	00:20		Standup with SC.	1
+TIMEACT	1/13/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:30		Dev call.	1
+TIMEACT	1/13/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	01:00		Standup with CM.	1
+TIMEACT	1/13/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Kara Van Malssen	Data modeling and packaging	""""""	02:00		Workshop prep	1
+TIMEACT	1/13/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	00:30		meeting with Facebook team	1
+TIMEACT	1/13/21	THE BREMAN MUSEUM:BREMAN ASPACE INTEGRATION	Nouman Tayyab	Coding	""""""	01:30		debugged the breman aspace issue	1
+TIMEACT	1/13/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Bertram Lyons	Proof of concept source code f	""""""	00:30			1
+TIMEACT	1/13/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Bertram Lyons	[SME] Project Management -	""""""	00:30			1
+TIMEACT	1/13/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Bertram Lyons	[SME] AVP will work with NA to	""""""	01:00			1
+TIMEACT	1/13/21	NEW ORLEANS JAZZ AND HERITAGE FOUNDATION:DIGITAL PRESERVATION SUPPORT SERVICES	Bertram Lyons	NAS Storage Solution Configura	""""""	00:30			1
+TIMEACT	1/13/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	03:00		Wes Portal #7598	1
+TIMEACT	1/13/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 4: Visipec API Implem	""""""	01:00		Dan Portal #7598	1
+TIMEACT	1/13/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	04:00		Development / Dan Fischer	1
+TIMEACT	1/13/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	04:30			1
+TIMEACT	1/13/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Project Management and Meeting	""""""	00:30			1
+TIMEACT	1/13/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Dan Fischer	Software Development (Coding)	""""""	02:00			1
+TIMEACT	1/13/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	06:00			1
+TIMEACT	1/14/21	THE BREMAN MUSEUM:BREMAN ASPACE INTEGRATION	Nouman Tayyab	Coding	""""""	01:30		continue the debugging of breman and fixed the problem and deployed as hotfix	1
+TIMEACT	1/14/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Nouman Tayyab	Coding	""""""	04:00		AVIARY-2207 As a public user, I can access a valid IIIF endpoint that offers valid IIIF manifest for an Aviary Resource	1
+TIMEACT	1/14/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - Playback	""""""	02:56		121 files for playback - b003_002 - b003_014 - QC playback 32	1
+TIMEACT	1/14/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	00:25			1
+TIMEACT	1/14/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	01:15		Standup and prep for meeting with Jon and Maria, including preparing budget estimates and communications	1
+TIMEACT	1/14/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	03:15		Communications regarding group management and permissions; meeting with Bryan; updating upload form; updating Trello	1
+TIMEACT	1/14/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Rebecca Chandler	[SME] AVP will work with NA to	""""""	01:00		AViary backlog grooming - embedded metadata tickets	1
+TIMEACT	1/14/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	00:30		workshop prep, email drafting	1
+TIMEACT	1/14/21	PRESERVICA:FCCS	David Agudelo-Frankel	Digitized CSM Photographs Deve	""""""	00:13			1
+TIMEACT	1/14/21	BOSTON PUBLIC LIBRARY:DIGITAL PRESERVATION VISIONING SURVEY & WORKSHOP	Rebecca Chandler	Survey	""""""	01:00		drafting	1
+TIMEACT	1/14/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	01:23		playback review, FMR check in	1
+TIMEACT	1/14/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	02:45		BioViz 2nd Walkthrough; OL weekly call; Project hours burn down call	1
+TIMEACT	1/14/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	00:25			1
+TIMEACT	1/14/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - check in meetings	""""""	00:46		""""""	1
+TIMEACT	1/14/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Amy Rudersdorf	Phase 1: Understand and Define	""""""	02:30		Segmentation 	1
+TIMEACT	1/14/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Configuration and Validation	""""""	01:30		MVP 2 sprint 1 validation	1
+TIMEACT	1/14/21	CAPITAL GROUP:FY 2021	Amy Rudersdorf	Video Collection	""""""	01:00		Scoping / Discovery for Video Ingest meeting and follow up	1
+TIMEACT	1/14/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:30		Slack communications with team. Quick check-in with Kerri.	1
+TIMEACT	1/14/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	00:30		FB/OL weekly sync. Quick check-in with Kerri to plan sprint validation.	1
+TIMEACT	1/14/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	01:15		BioViz walkthrough #2.	1
+TIMEACT	1/14/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	01:30		OL weekly sync. Chat with Chris Low about project hours.	1
+TIMEACT	1/14/21	CAPITAL GROUP:FY 2021	Pamela Vizner Oyarce	Video Collection	""""""	00:45		Scoping call with OL.	1
+TIMEACT	1/14/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Configuration and Validation	""""""	00:15		Started sprint validation.	1
+TIMEACT	1/14/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	01:30		taxonomy gathering/comparison	1
+TIMEACT	1/14/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	01:00		working session meeting with David + meeting with Christina about the master spreadsheet	1
+TIMEACT	1/14/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	01:00		Wes Portal #7598	1
+TIMEACT	1/14/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	05:00		Development / Dan Fischer	1
+TIMEACT	1/14/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	07:00			1
+TIMEACT	1/14/21	AVP:MEDEX	Dan Fischer	Coding	""""""	03:00			1
+TIMEACT	1/15/21	YALE:FORTUNOFF ANNOTATIONS DEVELOPMENT	Nouman Tayyab	Coding	""""""	00:30		fixed the annotation issue and deployed as a hotfix	1
+TIMEACT	1/15/21	YALE:FORTUNOFF USHMM	Nouman Tayyab	Coding	""""""	00:30		setup the Ushmm organization on the edge and re-ran the import process	1
+TIMEACT	1/15/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Project Management	""""""	00:45		Scheduling workflows call with Chris	1
+TIMEACT	1/15/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Project Management	""""""	02:00		Schedule workflow walk throughs; Draft proposed updated AVP hours allocation	1
+TIMEACT	1/15/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	01:15		Backlog grooming	1
+TIMEACT	1/15/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	01:26			1
+TIMEACT	1/15/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Project Management	""""""	01:00		sprint 1 planning meeting	1
+TIMEACT	1/15/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	07:00		check in, taxonomies, ALP meeting	1
+TIMEACT	1/15/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	00:30		Internal meeting, validation planning.	1
+TIMEACT	1/15/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	00:30		Internal meeting, configurations planning.	1
+TIMEACT	1/15/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	01:00		Backlog grooming & planning.	1
+TIMEACT	1/15/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	04:45		Updated BioViz workflows. Link ticket follow up. Configurations for editorial photography, updated workflows. Tested clementine.	1
+TIMEACT	1/15/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	06:00		AVP <> Spotify standing meeting; Usage Rights follow up; Layerframe bi-weekly; internal communications; development of assets upload form	1
+TIMEACT	1/15/21	COUNTY OF SANTA CLARA OFFICE OF THE CLERK OF THE BOARD OF SUPERVISORS:FY 2021	Amy Rudersdorf	Project Management	""""""	00:30		Jim Weston check-in and follow up	1
+TIMEACT	1/15/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Bertram Lyons	[SME] Project Management -	""""""	01:00			1
+TIMEACT	1/15/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	04:00		Development / Dan Fischer	1
+TIMEACT	1/15/21	AVP:MEDEX	Brandon Wiemann	Meetings	""""""	01:00			1
+TIMEACT	1/15/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	05:00			1
+TIMEACT	1/15/21	AVP:MEDEX	Brandon Wiemann	Project Management	""""""	00:30			1
+TIMEACT	1/15/21	AVP:MEDEX	Dan Fischer	Coding	""""""	02:00			1
+TIMEACT	1/18/21	YALE:FORTUNOFF USHMM	Nouman Tayyab	Coding	""""""	02:00		AVIARY-2240 Understand why Aviary media embed iframe is getting extra height and has a white space on right side	1
+TIMEACT	1/18/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Nouman Tayyab	Coding	""""""	01:30		AVIARY-2207 As a public user, I can access a valid IIIF endpoint that offers valid IIIF manifest for an Aviary Resource	1
+TIMEACT	1/18/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	02:00		Dan  Portal #7598	1
+TIMEACT	1/18/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	06:00		Development / Dan Fischer	1
+TIMEACT	1/18/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	05:00			1
+TIMEACT	1/18/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	05:00			1
+TIMEACT	1/19/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	00:30			1
+TIMEACT	1/19/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	00:12			1
+TIMEACT	1/19/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:20		Daily standup	1
+TIMEACT	1/19/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[SME] Project Management -	""""""	00:15		daily standup call	1
+TIMEACT	1/19/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	00:30		working session with David	1
+TIMEACT	1/19/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Developer	""""""	02:30		AMP Standup; project management; Core team meeting and follow up	1
+TIMEACT	1/19/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	04:00		Communications; updating the Assets Upload Form; Standup with Bryan; Vault Admin meeting; Planning for metaproperties meeting	1
+TIMEACT	1/19/21	MEEMOO:INVENTORY REGISTRATION	Pamela Vizner Oyarce	Documentation-Consultant	""""""	00:30		Final updates to documentation in Confluence.	1
+TIMEACT	1/19/21	MEEMOO:INVENTORY REGISTRATION	Pamela Vizner Oyarce	Project Management-Consultant	""""""	00:30		Added users to Confluence, followed up with Loes regarding next steps and remaining issues.	1
+TIMEACT	1/19/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Project Management	""""""	01:30		Prep for weekly sync; Communications around updated ID Portrait SBAR; Weekly sync	1
+TIMEACT	1/19/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	02:15		Reviewing Sprint 2 outstanding tickets/issues; Editorial photography workflows	1
+TIMEACT	1/19/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Kara Van Malssen	Data modeling and packaging	""""""	02:15		Workshop prep	1
+TIMEACT	1/19/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - Automated tests	""""""	00:20		""""""	1
+TIMEACT	1/19/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	04:00		workshop prep, check in call	1
+TIMEACT	1/19/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	02:07		check in with Bryan, vault admin meeting	1
+TIMEACT	1/19/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	00:30		Internal check-in.	1
+TIMEACT	1/19/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	01:45		Weekly meeting with Mayo. Meeting with Carol for apps approval.	1
+TIMEACT	1/19/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	01:45		Production workflows planning; Weekly sync prep	1
+TIMEACT	1/19/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Nouman Tayyab	Coding	""""""	00:15		IIIF json discussion with Bert	1
+TIMEACT	1/19/21	BOSTON PUBLIC LIBRARY:DIGITAL PRESERVATION VISIONING SURVEY & WORKSHOP	Kara Van Malssen	Project Management	""""""	01:00		Team meeting	1
+TIMEACT	1/19/21	REYNOLDS JOURNALISM INSTITUTE:NEWS MEDIA PRESERVATION	Kara Van Malssen	Review and feedback on report 	""""""	01:45		First draft report review	1
+TIMEACT	1/19/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	01:45		Meeting with CM to discuss production workflows. Internal meeting recap.	1
+TIMEACT	1/19/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	01:30		Editorial photo walkthrough prep. Link ticket creation and review.	1
+TIMEACT	1/19/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	00:30		MP check in	1
+TIMEACT	1/19/21	BOSTON PUBLIC LIBRARY:DIGITAL PRESERVATION VISIONING SURVEY & WORKSHOP	Rebecca Chandler	Project Management	""""""	01:00		check in meeting	1
+TIMEACT	1/19/21	INDIANA UNIVERSITY:AMPPD	Bertram Lyons	Subject Matter Expert	""""""	01:00			1
+TIMEACT	1/19/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	01:00		Dan Portal #7598	1
+TIMEACT	1/19/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	03:00		Development / Dan Fischer	1
+TIMEACT	1/19/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Medex Technology Infrastructur	""""""	04:00			1
+TIMEACT	1/19/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	06:00			1
+TIMEACT	1/20/21	MEEMOO:INVENTORY REGISTRATION	Nouman Tayyab	Demos & Meetings	""""""	00:30		responded to Loes + updated the task on Jira with the comment and created the tag and released the latest code on meemoo github repo	1
+TIMEACT	1/20/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Monday.com API integrati	""""""	01:01			1
+TIMEACT	1/20/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	00:22			1
+TIMEACT	1/20/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Ramp up and onboarding	""""""	01:00		did the Monday API sample on Monday playground and then tried to write the API code on the hack lang and learning it	1
+TIMEACT	1/20/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Project Management	""""""	00:15		daily standup meeting	1
+TIMEACT	1/20/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Requirements Definition & Docu	""""""	00:15		SBAR review	1
+TIMEACT	1/20/21	REYNOLDS JOURNALISM INSTITUTE:NEWS MEDIA PRESERVATION	Kerri Willette	Review and feedback on report 	""""""	03:00		Review 1-19-21 draft	1
+TIMEACT	1/20/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - Automated tests	""""""	01:07		""""""	1
+TIMEACT	1/20/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:20		Daily standup	1
+TIMEACT	1/20/21	INSTITUTO DE CULTURA PUERTORRIQUEÑA:ICP - DP ASSESSMENT	Pamela Vizner Oyarce	Project Management	""""""	00:20		Email to Hilda to schedule ICP kick-off.	1
+TIMEACT	1/20/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Documentation & Training	""""""	00:40		Video about suggesting tags, reviewed issue with tag assignment and synonyms. Replied to Annie.	1
+TIMEACT	1/20/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 1:  Visipec API Monit	""""""	03:34		Project management for API updates	1
+TIMEACT	1/20/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Requirements Definition & Docu	""""""	00:10		Reviewed Cortex App doc for SPAD approval.	1
+TIMEACT	1/20/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	01:00		AMP Backlog Grooming; communications	1
+TIMEACT	1/20/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	02:00		Drafting letter to Tina and Loren; communications; metaproperty analysis	1
+TIMEACT	1/20/21	REYNOLDS JOURNALISM INSTITUTE:NEWS MEDIA PRESERVATION	Kara Van Malssen	Review and feedback on report 	""""""	02:00		First draft report review	1
+TIMEACT	1/20/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	02:15		Reviewed download sizes and pending link tickets.	1
+TIMEACT	1/20/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	00:52			1
+TIMEACT	1/20/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	02:00		PDX OKR/project plan updates; Weekly team sync	1
+TIMEACT	1/20/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	00:30		Link tickets	1
+TIMEACT	1/20/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	00:46		Core team meeting notes review	1
+TIMEACT	1/20/21	ASPJA:POLICY AND DATA MANAGEMENT SUPPORT	Amy Rudersdorf	Project Management	""""""	00:10		Communications	1
+TIMEACT	1/20/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	03:00		prep for XFN workshop	1
+TIMEACT	1/20/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Rebecca Chandler	Initial release compiled appli	""""""	00:30		check in	1
+TIMEACT	1/20/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	02:00		taxonomy review, prep for meetings	1
+TIMEACT	1/20/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Ramp up and onboarding	""""""	00:50		Marketing training	1
+TIMEACT	1/20/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	01:00		Weekly check-in with CM.	1
+TIMEACT	1/20/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	00:45		Training data markup	1
+TIMEACT	1/20/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Bertram Lyons	Proof of concept source code f	""""""	00:30			1
+TIMEACT	1/20/21	NEW ORLEANS JAZZ AND HERITAGE FOUNDATION:DIGITAL PRESERVATION SUPPORT SERVICES	Bertram Lyons	NAS Storage Solution Configura	""""""	01:00			1
+TIMEACT	1/20/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	01:00		Dan Portal #7598	1
+TIMEACT	1/20/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	05:30			1
+TIMEACT	1/20/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Project Management and Meeting	""""""	00:30			1
+TIMEACT	1/20/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Medex Technology Infrastructur	""""""	05:00			1
+TIMEACT	1/20/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	06:00			1
+TIMEACT	1/21/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - Playback	""""""	00:53		checked 8 out of 28 files left on snowball 2	1
+TIMEACT	1/21/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	00:20			1
+TIMEACT	1/21/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Project Management	""""""	00:30		Internal check-in	1
+TIMEACT	1/21/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	00:30		AVP internal team check in	1
+TIMEACT	1/21/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Project Management	""""""	00:30		Internal AVP team meeting	1
+TIMEACT	1/21/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Phase 1: Understand and Define	""""""	01:30		User testing plan; Updating user stories	1
+TIMEACT	1/21/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	01:08		Communications, MGM working group	1
+TIMEACT	1/21/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Project Management	""""""	00:36		Weekly check in with OL	1
+TIMEACT	1/21/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 1:  Visipec API Monit	""""""	02:40		Visipec API updates	1
+TIMEACT	1/21/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	01:40		AWS prep for Scribe, Scribe task configs	1
+TIMEACT	1/21/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Documentation & Training	""""""	03:30		BioViz final walkthrough; OL weekly call; migration validation checklist	1
+TIMEACT	1/21/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	02:00		Stand up; communications; MGM meeting	1
+TIMEACT	1/21/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Amy Rudersdorf	Project Management	""""""	00:30		Weekly internal standup	1
+TIMEACT	1/21/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:30		Daily standup	1
+TIMEACT	1/21/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	01:00		Internal check-in. FB OL check-in.	1
+TIMEACT	1/21/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	00:45		Internal check-in.	1
+TIMEACT	1/21/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	04:00		Workflow implementation and prep for walk-throughs. BioViz walkthrough with Brenda. Call with OL.	1
+TIMEACT	1/21/21	INSTITUTO DE CULTURA PUERTORRIQUEÑA:ICP - DP ASSESSMENT	Pamela Vizner Oyarce	Project Management	""""""	00:15		ICP email to Hilda regarding kick-off meeting.	1
+TIMEACT	1/21/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Project Management	""""""	00:15		daily standup meeting	1
+TIMEACT	1/21/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Nouman Tayyab	Coding	""""""	02:00		AVIARY-2207 As a public user, I can access a valid IIIF endpoint that offers valid IIIF manifest for an Aviary Resource	1
+TIMEACT	1/21/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Kara Van Malssen	Data modeling and packaging	""""""	03:30		XFN metadata workshop and prep	1
+TIMEACT	1/21/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	02:00		Wes Portal #7598	1
+TIMEACT	1/21/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	06:00		Development / Dan Fischer	1
+TIMEACT	1/21/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	00:30			1
+TIMEACT	1/21/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	07:00			1
+TIMEACT	1/21/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	04:00		xfn workshop	1
+TIMEACT	1/21/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Rebecca Chandler	[SME] AVP will work with NA to	""""""	00:30		metadata call	1
+TIMEACT	1/21/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	01:30		Configuration	1
+TIMEACT	1/22/21	YALE:FORTUNOFF USHMM	Nouman Tayyab	Coding	""""""	01:00		AVIARY-2240 Understand why Aviary media embed iframe is getting extra height and has a white space on right side	1
+TIMEACT	1/22/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] DB Schema development	""""""	01:00		daily working session with David	1
+TIMEACT	1/22/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Project Management	""""""	00:30		daily standup meeting	1
+TIMEACT	1/22/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Phase 1: Understand and Define	""""""	03:00		Analyzing user stories/risks; Sprint demo meeting; Weekly project team check-in	1
+TIMEACT	1/22/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	00:15		Developer check in	1
+TIMEACT	1/22/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	02:31			1
+TIMEACT	1/22/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	00:30			1
+TIMEACT	1/22/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 1:  Visipec API Monit	""""""	03:00		Communications, internal check-in, Gibbs check-in	1
+TIMEACT	1/22/21	REYNOLDS JOURNALISM INSTITUTE:NEWS MEDIA PRESERVATION	Kerri Willette	Review and feedback on report 	""""""	00:15		Organizing feedback	1
+TIMEACT	1/22/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - check in meetings	""""""	00:15		COVID-19 test	1
+TIMEACT	1/22/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	02:22		Scribe workflow configuration, sprint planning, LC/AVP biweekly check-in	1
+TIMEACT	1/22/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""""""	00:45		JFK/OL weekly meeting	1
+TIMEACT	1/22/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:30		Daily standup	1
+TIMEACT	1/22/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	00:30		Tested browser uploader, responded to messages from Mayo team. Call with Annie to discuss fields.	1
+TIMEACT	1/22/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - check in meetings	""""""	00:38		""""""	1
+TIMEACT	1/22/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Configuration and Validation	""""""	05:45		Sprint 2 testing and validation	1
+TIMEACT	1/22/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Amy Rudersdorf	Project Management	""""""	02:15		Internal sprint planning and biweekly standup	1
+TIMEACT	1/22/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	04:30		Meetings, metadata, meeting and workshop planning, communications	1
+TIMEACT	1/22/21	REYNOLDS JOURNALISM INSTITUTE:NEWS MEDIA PRESERVATION	Kara Van Malssen	Review and feedback on report 	""""""	01:15		Report review and feedback	1
+TIMEACT	1/22/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	01:30		Wes Portal #7598	1
+TIMEACT	1/22/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	01:30		Wes Portal #7598	1
+TIMEACT	1/22/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	01:30		Dan Portal #7598	1
+TIMEACT	1/22/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	03:00			1
+TIMEACT	1/22/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Medex Technology Infrastructur	""""""	01:00			1
+TIMEACT	1/22/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	05:00			1
+TIMEACT	1/22/21	AVP:MEDEX	Brandon Wiemann	Meetings	""""""	00:45			1
+TIMEACT	1/22/21	AVP:MEDEX	Brandon Wiemann	Project Management	""""""	00:15			1
+TIMEACT	1/22/21	AVP:MEDEX	Dan Fischer	Coding	""""""	03:00			1
+TIMEACT	1/22/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	03:30		Configuration	1
+TIMEACT	1/22/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Rebecca Chandler	[SME] AVP will work with NA to	""""""	01:30		sprint planning	1
+TIMEACT	1/22/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	00:30		FMR check in	1
+TIMEACT	1/23/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	01:00		Scribe workflow config	1
+TIMEACT	1/24/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	01:41			1
+TIMEACT	1/25/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	04:10			1
+TIMEACT	1/25/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	00:12			1
+TIMEACT	1/25/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Phase 2a: Workflow Prototypes 	""""""	01:15		User test participant recruitment	1
+TIMEACT	1/25/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] DB Schema development	""""""	01:00		meeting with David with db schema	1
+TIMEACT	1/25/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Project Management	""""""	00:15		daily standup call	1
+TIMEACT	1/25/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	02:45		Standup and project management; begin to prepare survey questions, set up call with Julie; creating white paper outline	1
+TIMEACT	1/25/21	CAPITAL GROUP:FY 2021	Amy Rudersdorf	General Consulting & PDF Archi	""""""	00:20		CG internal standup and communicating weekly update	1
+TIMEACT	1/25/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Project Management	""""""	02:45		Reviewing Trello board for this sprint and the next; meeting with Rebecca to review Trello board; Editorial Design Sprint Planning	1
+TIMEACT	1/25/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	00:30		Internal team meeting	1
+TIMEACT	1/25/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""""""	00:24		Reviewing Friday meeting notes	1
+TIMEACT	1/25/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Project Management	""""""	03:30		sprint planning + prep, check in	1
+TIMEACT	1/25/21	REYNOLDS JOURNALISM INSTITUTE:NEWS MEDIA PRESERVATION	Kerri Willette	Review and feedback on report 	""""""	01:00			1
+TIMEACT	1/25/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Shawn Averkamp	Publish manifest - Consulting	""""""	02:37		Internal AVP specs meeting, AWE team meeting, updating specs	1
+TIMEACT	1/25/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:30		Daily standup	1
+TIMEACT	1/25/21	PRESERVICA:FCCS	Pamela Vizner Oyarce	Digitized CSM Photographs Cons	""""""	00:45		Reviewed latest upload, reviewed XML (getting ingest errors), communications with developer, communications with FCCS/Preservica for next steps.	1
+TIMEACT	1/25/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	00:30		Internal check-in	1
+TIMEACT	1/25/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Project Management	""""""	00:30		Internal team meeting	1
+TIMEACT	1/25/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	00:30		Internal check-in	1
+TIMEACT	1/25/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Configuration and Validation	""""""	02:15		Link tickets for Sprint 2 validation	1
+TIMEACT	1/25/21	REYNOLDS JOURNALISM INSTITUTE:NEWS MEDIA PRESERVATION	Kara Van Malssen	Review and feedback on report 	""""""	01:00		Discussion of AVP review of first draft of report	1
+TIMEACT	1/25/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Nouman Tayyab	Coding	""""""	00:30		discussion with Shawn and Bert about IIIF	1
+TIMEACT	1/25/21	YALE:FORTUNOFF ANNOTATIONS DEVELOPMENT	Nouman Tayyab	Coding	""""""	01:30		AVIARY-2254 When ASpace syncs replace a transcript, make sure to handle existing annotations correctly	1
+TIMEACT	1/25/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Furqan Wasi	Coding	""""""	08:00		AVIARY-2263 As a public user, I can access a Flock Resources page so that I can facet and search content from the Flock backend structure	1
+TIMEACT	1/25/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Zaheer Abdulwajid	Coding	""""""	05:30		Discussed adminary flock addition databse schema and started implemented 	1
+TIMEACT	1/25/21	FBI:PHASE 3 PART 2	Bertram Lyons	Project Management	""""""	00:30			1
+TIMEACT	1/25/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Bertram Lyons	Proof of concept source code f	""""""	00:30			1
+TIMEACT	1/25/21	NEW ORLEANS JAZZ AND HERITAGE FOUNDATION:DIGITAL PRESERVATION SUPPORT SERVICES	Bertram Lyons	NAS Storage Solution Configura	""""""	01:00			1
+TIMEACT	1/25/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Bertram Lyons	Publish manifest - Consulting	""""""	01:30			1
+TIMEACT	1/25/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	06:00		Development / Dan Fischer	1
+TIMEACT	1/25/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	01:00			1
+TIMEACT	1/25/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Statistical Analysis of Medex'	""""""	02:00			1
+TIMEACT	1/25/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	08:00			1
+TIMEACT	1/26/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Project Management	""""""	02:00		Updating project timelines; Weekly team sync	1
+TIMEACT	1/26/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	02:00		Adding configuration tickets to Link; Editorial Photography walkthrough	1
+TIMEACT	1/26/21	WNET:ARCHIVE PLATFORM MIGRATION PHASE 1	Shawn Averkamp	Share data with Media Operatio	""""""	01:22		Troubleshooting workflows	1
+TIMEACT	1/26/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	03:17		XFN takeaways, photography team planning	1
+TIMEACT	1/26/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	00:53		QC review, correspondence, MP check in	1
+TIMEACT	1/26/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	03:15			1
+TIMEACT	1/26/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] DB Schema development	""""""	02:00		worked with David to build the schema and relations	1
+TIMEACT	1/26/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Nouman Tayyab	Coding	""""""	03:15		AVIARY-2269 Complete the Canvas - item element for IIIF manifest	1
+TIMEACT	1/26/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Nouman Tayyab	Coding	""""""	01:30		AVIARY-2268 Fix all 'label' values to have language qualifier	1
+TIMEACT	1/26/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	01:00		Backlog grooming	1
+TIMEACT	1/26/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Project Management	""""""	00:45		backlog grooming meeting	1
+TIMEACT	1/26/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Kara Van Malssen	Data modeling and packaging	""""""	01:00		XFN workshop takeaways, prep for team-specific workshop	1
+TIMEACT	1/26/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	00:50			1
+TIMEACT	1/26/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Project Management	""""""	00:38		internal check in	1
+TIMEACT	1/26/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 1:  Visipec API Monit	""""""	02:47		Reviewing specs from Kati	1
+TIMEACT	1/26/21	SPOTIFY:DAM STRATEGY PHASE 3	Kara Van Malssen	Project Management	""""""	00:30		Internal planning meetin	1
+TIMEACT	1/26/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Project Management	""""""	00:45		Prep for weekly project team sync	1
+TIMEACT	1/26/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	01:30		Sprint Planning	1
+TIMEACT	1/26/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Phase 1: Understand and Define	""""""	01:15		Documentation report drafting	1
+TIMEACT	1/26/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	05:30		Meetings, workshop, configuring ALP asset upload form, communications	1
+TIMEACT	1/26/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	04:07		workshop with Tina and Loren	1
+TIMEACT	1/26/21	INSTITUTO DE CULTURA PUERTORRIQUEÑA:ICP - DP ASSESSMENT	Pamela Vizner Oyarce	Project Management	""""""	00:30		Email to Hilda, list of documentation needed, communications to schedule kick-off.	1
+TIMEACT	1/26/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Configuration and Validation	""""""	00:50		Final submission of feedback to OL for sprint 2.	1
+TIMEACT	1/26/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	02:49		Scribe setup and configuration	1
+TIMEACT	1/26/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Data mapping & integrati	""""""	00:45		Monday.com mappings to PDX	1
+TIMEACT	1/26/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	01:00		Meeting on Avalon mapping	1
+TIMEACT	1/26/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	01:15		Ed photography walk-through	1
+TIMEACT	1/26/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Zaheer Abdulwajid	Coding	""""""	02:00		Completed flocks db schema, explaind with Nouman/Furqan and created PR	1
+TIMEACT	1/26/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Zaheer Abdulwajid	Coding	""""""	02:30		AVIARY-2252 started working on flocks crud ui	1
+TIMEACT	1/26/21	INDIANA UNIVERSITY:AMPPD	Bertram Lyons	Subject Matter Expert	""""""	01:00			1
+TIMEACT	1/26/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Bertram Lyons	[SME] Project Management -	""""""	01:00			1
+TIMEACT	1/26/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	03:00		Wes Portal #7598	1
+TIMEACT	1/26/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	05:00		Development / Dan Fischer	1
+TIMEACT	1/26/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Dan Fischer	Software Development (Coding)	""""""	02:00			1
+TIMEACT	1/26/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Statistical Analysis of Medex'	""""""	01:00			1
+TIMEACT	1/26/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	09:00			1
+TIMEACT	1/27/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Nouman Tayyab	Coding	""""""	05:00		AVIARY-2269 Complete the Canvas - item element for IIIF manifest	1
+TIMEACT	1/27/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Nouman Tayyab	Coding	""""""	02:30		AVIARY-2239 Develop a script to extract metadata from mp4 files upon import and to map the data to Resource metadata fields for the National Aquarium site	1
+TIMEACT	1/27/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	01:45		Reviewing Ed Photography walkthrough feedback; ID Portrait filenames meeting	1
+TIMEACT	1/27/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Phase 2a: Workflow Prototypes 	""""""	03:00		User testing plan; Recruitment form; Documentation report draft	1
+TIMEACT	1/27/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	02:31		Scribe setup	1
+TIMEACT	1/27/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	01:37		Proposal drafting, troubleshooting MGMs	1
+TIMEACT	1/27/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	01:54		XFN workshop takeaways	1
+TIMEACT	1/27/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	08:07			1
+TIMEACT	1/27/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Configuration and Validation	""""""	00:30		Communication with OL	1
+TIMEACT	1/27/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Configuration and Validation	""""""	00:45		Reviewed mapping to PDX (suggested changes), responded to Link tickets, sprint 2.	1
+TIMEACT	1/27/21	INSTITUTO DE CULTURA PUERTORRIQUEÑA:ICP - DP ASSESSMENT	Pamela Vizner Oyarce	Project Management	""""""	00:15		Scheduled ICP Kick-off meeting, follow up email.	1
+TIMEACT	1/27/21	ASPJA:POLICY AND DATA MANAGEMENT SUPPORT	Rebecca Chandler	General Consulting	""""""	00:30		cal to discuss OH metadata	1
+TIMEACT	1/27/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:20		Reviewed jira board, communications with internal team.	1
+TIMEACT	1/27/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Project Management	""""""	01:45		Weekly team sync; PDX/Cortex field scoping	1
+TIMEACT	1/27/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 1:  Visipec API Monit	""""""	01:15		NWF check-in	1
+TIMEACT	1/27/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""""""	01:07		JFK check-in	1
+TIMEACT	1/27/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	02:15		AMP Backlog Grooming; project management; phase 3 proposal drafting	1
+TIMEACT	1/27/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	00:10		Editorial Tooling ? Standup 	1
+TIMEACT	1/27/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	01:00		AMP Phase 3 Proposal	1
+TIMEACT	1/27/21	ASPJA:POLICY AND DATA MANAGEMENT SUPPORT	Amy Rudersdorf	General Consulting	""""""	01:00		ASPJA / AVP check in	1
+TIMEACT	1/27/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Pilot / user testing	""""""	01:30		Drafting plan	1
+TIMEACT	1/27/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Migration	""""""	02:50		Configuring Assets data dump to only contain fields that are going to be migrated	1
+TIMEACT	1/27/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	01:30		Internal check-in. Standup with CM.	1
+TIMEACT	1/27/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	01:00		Portrait IDs file name transformation discussion.	1
+TIMEACT	1/27/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	05:00		Controlled vocab refinement	1
+TIMEACT	1/27/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Zaheer Abdulwajid	Coding	""""""	07:00		AVIARY-2252 Completed crud implementation and permissions handling on left menu for flock integration	1
+TIMEACT	1/27/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Bertram Lyons	Proof of concept source code f	""""""	00:30			1
+TIMEACT	1/27/21	INDIANA UNIVERSITY:AMPPD	Bertram Lyons	Subject Matter Expert	""""""	01:00			1
+TIMEACT	1/27/21	NEW ORLEANS JAZZ AND HERITAGE FOUNDATION:DIGITAL PRESERVATION SUPPORT SERVICES	Bertram Lyons	NAS Storage Solution Configura	""""""	00:30			1
+TIMEACT	1/27/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	01:00		Wes Portal #7598	1
+TIMEACT	1/27/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	03:00			1
+TIMEACT	1/27/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Project Management and Meeting	""""""	00:30			1
+TIMEACT	1/27/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Dan Fischer	Software Development (Coding)	""""""	03:00			1
+TIMEACT	1/27/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Statistical Analysis of Medex'	""""""	05:00			1
+TIMEACT	1/27/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	05:00			1
+TIMEACT	1/27/21	AVP:MEDEX	Brandon Wiemann	Meetings	""""""	01:00			1
+TIMEACT	1/27/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Rebecca Chandler	Documentation of issues for MX	""""""	00:30		check in	1
+TIMEACT	1/28/21	UNIVERSITY OF TEXAS AUSTIN:[AVIARY] AUDIANNOTATE AWE	Nouman Tayyab	Coding	""""""	03:00		AVIARY-2269 Complete the Canvas - item element for IIIF manifest	1
+TIMEACT	1/28/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Project Management	""""""	00:15		Scheduling PDX structure call	1
+TIMEACT	1/28/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Project Management	""""""	01:00		Weekly sync with OL	1
+TIMEACT	1/28/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Jennifer Ronca	QC - check in meetings	""""""	00:10		Set-up new testing account	1
+TIMEACT	1/28/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Project Management	""""""	01:00		Internal team check-in; User testing recruitment	1
+TIMEACT	1/28/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	06:28			1
+TIMEACT	1/28/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	03:00		Standup; drafting Phase 3 proposal	1
+TIMEACT	1/28/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Amy Rudersdorf	Project Management	""""""	00:45		Weekly standup and communications	1
+TIMEACT	1/28/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	01:01		workshop takeaways, working session prep	1
+TIMEACT	1/28/21	BOSTON PUBLIC LIBRARY:DIGITAL PRESERVATION VISIONING SURVEY & WORKSHOP	Rebecca Chandler	Workshop	""""""	02:00		brainstorming, correspondence	1
+TIMEACT	1/28/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Migration	""""""	01:30		Editing assets metadata export; Communications; Data analysis	1
+TIMEACT	1/28/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Configuration	""""""	02:00		taxonomies	1
+TIMEACT	1/28/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Requirements Documentation	""""""	02:00		Mapping PDX/Cortex ingest workflows; BA workflow options	1
+TIMEACT	1/28/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	02:00		Internal check-in; Scribe setup	1
+TIMEACT	1/28/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 1: Understand and Define	""""""	02:55		Documentation reports	1
+TIMEACT	1/28/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""""""	00:15		Communications	1
+TIMEACT	1/28/21	FIDELITY INVESTMENTS:VIDEO PRESERVATION AND ACCESS	Rebecca Chandler	Digitization and Project Manag	""""""	00:18		FMR check in	1
+TIMEACT	1/28/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	01:06			1
+TIMEACT	1/28/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Kerri Willette	Configuration and Validation	""""""	00:45		Link tickets; Reporting upgrade regressions; Review Collage workflows	1
+TIMEACT	1/28/21	INSTITUTO DE CULTURA PUERTORRIQUEÑA:ICP - DP ASSESSMENT	Pamela Vizner Oyarce	Project Management	""""""	01:45		ICP Project Kick-off prep.	1
+TIMEACT	1/28/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Project Management	""""""	00:30		Internal meeting, Cortex folder structure + BA data.	1
+TIMEACT	1/28/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Project Management	""""""	01:10		Standup with OL	1
+TIMEACT	1/28/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Pamela Vizner Oyarce	[SME] Project Management -	""""""	00:20		Dev standup	1
+TIMEACT	1/28/21	INDIANA UNIVERSITY:AMPPD	Shawn Averkamp	Subject Matter Expert	""""""	00:15		Review white paper outline	1
+TIMEACT	1/28/21	BOSTON PUBLIC LIBRARY:DIGITAL PRESERVATION VISIONING SURVEY & WORKSHOP	Kara Van Malssen	Workshop	""""""	01:00		Workshop planning	1
+TIMEACT	1/28/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Kara Van Malssen	Data modeling and packaging	""""""	01:30		Workshop planning	1
+TIMEACT	1/28/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Nouman Tayyab	[DEV] AVP will carry out the m	""""""	01:30		AVIARY-2239 Develop a script to extract metadata from mp4 files upon import and to map the data to Resource metadata fields for the National Aquarium site	1
+TIMEACT	1/28/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Nouman Tayyab	Software Development (Coding)	""""""	03:30		AVIARY-2262 As a public user, I can access a Flock home page so that I can interact with the content of a Flock	1
+TIMEACT	1/28/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Project Management	""""""	00:10		Editorial Tooling ? Slack-Up	1
+TIMEACT	1/28/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	03:30		Reviewing and analyzing project budgets	1
+TIMEACT	1/28/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Zaheer Abdulwajid	Coding	""""""	06:30		AVIARY-2252 crud implementation completed	1
+TIMEACT	1/28/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	01:00		Wes Portal #7598	1
+TIMEACT	1/28/21	LIBRARY OF CONGRESS -:MXF METAEDIT	Caroline Shea	Software Development (Coding)	""""""	01:30			1
+TIMEACT	1/28/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	07:00			1
+TIMEACT	1/28/21	AVP:MEDEX	Dan Fischer	Coding	""""""	01:00			1
+TIMEACT	1/29/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	01:14			1
+TIMEACT	1/29/21	NATIONAL AQUARIUM:AVIARY DATA MIGRATION	Nouman Tayyab	[DEV] AVP will carry out the m	""""""	05:00		AVIARY-2239 Develop a script to extract metadata from mp4 files upon import and to map the data to Resource metadata fields for the National Aquarium site	1
+TIMEACT	1/29/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Nouman Tayyab	[DEV] Project Management	""""""	01:00		demo and sprint planning meeting	1
+TIMEACT	1/29/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Nouman Tayyab	Software Development (Coding)	""""""	01:30		AVIARY-2262 As a public user, I can access a Flock home page so that I can interact with the content of a Flock	1
+TIMEACT	1/29/21	FACEBOOK:CONSUMER MARKETING	Kerri Willette	Requirements Documentation	""""""	01:15		Mockups for BA workflows	1
+TIMEACT	1/29/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	Kerri Willette	[SME] Project Management -	""""""	01:30		Sprint 1 demo	1
+TIMEACT	1/29/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] Project Management	""""""	01:56			1
+TIMEACT	1/29/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Pilot / user testing	""""""	00:30		Drafting ALP pilot plan	1
+TIMEACT	1/29/21	INDIANA UNIVERSITY:AMPPD	Amy Rudersdorf	Scrum Master	""""""	00:30		Drafting White Paper outline	1
+TIMEACT	1/29/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Furqan Wasi	Coding	""""""	04:00		AVIARY-2263 As a public user, I can access a Flock Resources page so that I can facet and search content from the Flock	1
+TIMEACT	1/29/21	NATIONAL GEOGRAPHIC:MEDIA MANAGEMENT ASSESSMENT AND ROADMAPPING	Rebecca Chandler	Data modeling and packaging	""""""	02:00		workshop findings	1
+TIMEACT	1/29/21	SPOTIFY:DAM STRATEGY PHASE 3	Rebecca Chandler	Project Management	""""""	05:00		pilot plans, check in	1
+TIMEACT	1/29/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""""""	00:33		JFK/OL check-in	1
+TIMEACT	1/29/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Rebecca Chandler	2021 Services	""""""	00:58		planning meeting with Tim and Nick	1
+TIMEACT	1/29/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Pilot / user testing	""""""	00:45		AVP <> Spotify standing meeting and follow up	1
+TIMEACT	1/29/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Shawn Averkamp	Activity 1:  Visipec API Monit	""""""	01:15		Internal check-in, communications	1
+TIMEACT	1/29/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	04:05		Sprint planning	1
+TIMEACT	1/29/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	02:00		Investigating how to set up an ALP upload template	1
+TIMEACT	1/29/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Phase 2a: Workflow Prototypes 	""""""	01:15		Sprint demo; User test recruitment	1
+TIMEACT	1/29/21	INSTITUTO DE CULTURA PUERTORRIQUEÑA:ICP - DP ASSESSMENT	Pamela Vizner Oyarce	Project Management	""""""	00:30		ICP finalized kick off slides.	1
+TIMEACT	1/29/21	MAYO CLINIC:CORTEX IMPLEMENTATION	Pamela Vizner Oyarce	Configuration and Validation	""""""	01:45		Responded to link tickets, tested clementine downloads. E-prep walkthrough prep.	1
+TIMEACT	1/29/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Amy Rudersdorf	Project Management	""""""	01:00		HITL sprint demo/retro/planning	1
+TIMEACT	1/29/21	SPOTIFY:DAM STRATEGY PHASE 3	Amy Rudersdorf	Configuration	""""""	01:00		Spotify + Vault +  AVP Bi-Weekly	1
+TIMEACT	1/29/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Amy Rudersdorf	Project Management	""""""	00:45		HITL biweekly meeting	1
+TIMEACT	1/29/21	FACEBOOK:CONSUMER MARKETING	Pamela Vizner Oyarce	Configuration and Validation	""""""	00:20		Investigated bulk edit options for rights fields.	1
+TIMEACT	1/29/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Kerri Willette	Project Management	""""""	01:00		Check in with LC; Internal team check in	1
+TIMEACT	1/29/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Kara Van Malssen	2021 Services	""""""	01:00		JFK / AVP sync, internal meeting	1
+TIMEACT	1/29/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 3: Data Scraping - Ba	""""""	01:00		Wes Portal #7598	1
+TIMEACT	1/29/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	02:00		Wes Portal #7598	1
+TIMEACT	1/29/21	NATIONAL WILDLIFE FEDERATION:BRAZIL CATTLE TRACEABILITY SUPPORT 2020	Dan Fischer	Activity 2: NWF Database Admin	""""""	01:00		Dan Portal #7598	1
+TIMEACT	1/29/21	YALE:FORTUNOFF FLOCK DEVELOPLMENT	Zaheer Abdulwajid	Coding	""""""	05:30		Completed feedback for adminary flock crud Started working on AVIARY-2257	1
+TIMEACT	1/29/21	INDIANA UNIVERSITY:AMPPD	Dan Fischer	Developer	""""""	04:00		Development / Dan Fischer	1
+TIMEACT	1/29/21	FBI:[MEDEX] PHASE 3 PART 2	Wes Doyle	Research and Development	""""""	02:00			1
+TIMEACT	1/29/21	FBI:[MEDEX] PHASE 3 PART 2	Dan Fischer	Statistical Analysis of Medex'	""""""	02:00			1
+TIMEACT	1/29/21	AVP:MEDEX	Brandon Wiemann	Coding	""""""	08:00			1
+TIMEACT	1/30/21	LIBRARY OF CONGRESS -:HUMANS IN THE LOOP	Shawn Averkamp	Phase 2a: Workflow Prototypes 	""""""	02:00		Assessing PyBossa for crowdsourcing tasks, exploring NLP options	1
+TIMEACT	1/31/21	FACEBOOK:CONSUMER MARKETING: PDX DATABASE DEVELOPMENT AND 3RD PARTY INTEGRATION SUPPORT	David Agudelo-Frankel	[DEV] DB Schema development	""""""	01:17			1

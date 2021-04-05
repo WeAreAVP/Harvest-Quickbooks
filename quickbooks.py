@@ -6,7 +6,7 @@ from array import *
 import json
 
 #Welcome message
-print("\nWelcome to the Converter Program!!! \n \n")
+print("\nWelcome to the Harvest Quickbooks Converter!!! \n \n")
 
 #Retreiving the user input
 val = raw_input("Please enter file name of the iif file with the extension: ")
@@ -72,7 +72,7 @@ try:
                 
         for d in range(0, len(data)):
             if int == 0:
-                writer = csv.DictWriter(csvfile, labels, delimiter='\t')
+                writer = csv.DictWriter(csvfile, labels, delimiter='\t', quoting=csv.QUOTE_NONE, escapechar=' ')
                 writer.writeheader() #writing in the third line
             
             if int >= 0:

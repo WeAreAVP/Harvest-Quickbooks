@@ -1,0 +1,19 @@
+!TIMERHDR	VER	REL	COMPANYNAME	IMPORTEDBEFORE	FROMTIMER	COMPANYCREATETIME
+TIMERHDR	 9	 0	AudioVisual Preservation Solutions, Inc.	N	Y	1235338105
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	BILLINGSTATUS
+TIMEACT	3/1/21	FBI:PHASE 3 PART 2  2020	Wes Doyle	Medex Technology Infrastructur	""	03:00		""	1
+TIMEACT	3/2/21	FBI:PHASE 3 PART 2  2020	Wes Doyle	Medex Technology Infrastructur	""	04:00		""	1
+TIMEACT	3/3/21	FBI:PHASE 3 PART 2  2020	Wes Doyle	Medex Technology Infrastructur	""	04:00		""	1
+TIMEACT	3/4/21	FBI:PHASE 3 PART 2  2020	Dan Fischer	Medex Technology Infrastructur	""	02:00		""	1
+TIMEACT	3/4/21	FBI:PHASE 3 PART 2  2020	Wes Doyle	Medex Technology Infrastructur	""	02:00		""	1
+TIMEACT	3/5/21	FBI:PHASE 3 PART 2  2020	Dan Fischer	Medex Technology Infrastructur	""	04:00		""	1
+TIMEACT	3/5/21	FBI:PHASE 3 PART 2  2020	Wes Doyle	Medex Technology Infrastructur	""	04:00		""	1
+TIMEACT	3/5/21	FBI:PHASE 3 PART 2  2020	Bertram Lyons	controlled Study on Structural	""	01:00			1
+TIMEACT	3/12/21	FBI:PHASE 3 PART 2  2020	Dan Fischer	Integration of Statistical Cla	""	03:00		""	1
+TIMEACT	3/12/21	FBI:PHASE 3 PART 2  2020	Bertram Lyons	controlled Study on Structural	""	01:00			1
+TIMEACT	3/15/21	FBI:PHASE 3 PART 2  2020	Dan Fischer	Medex Technology Infrastructur	""	04:00		""	1
+TIMEACT	3/16/21	FBI:PHASE 3 PART 2  2020	Dan Fischer	Medex Technology Infrastructur	""	06:00		""	1
+TIMEACT	3/17/21	FBI:PHASE 3 PART 2  2020	Dan Fischer	Medex Technology Infrastructur	""	03:00		""	1
+TIMEACT	3/19/21	FBI:PHASE 3 PART 2  2020	Bertram Lyons	controlled Study on Structural	""	01:00			1
+TIMEACT	3/23/21	FBI:PHASE 3 PART 2  2020	Bertram Lyons	controlled Study on Structural	""	01:00			1
+TIMEACT	3/26/21	FBI:PHASE 3 PART 2  2020	Bertram Lyons	controlled Study on Structural	""	01:00			1

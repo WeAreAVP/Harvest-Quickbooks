@@ -1,0 +1,27 @@
+!TIMERHDR	VER	REL	COMPANYNAME	IMPORTEDBEFORE	FROMTIMER	COMPANYCREATETIME
+TIMERHDR	 9	 0	AudioVisual Preservation Solutions, Inc.	N	Y	1235338105
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	BILLINGSTATUS
+TIMEACT	3/1/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	03:44		Pre-ingest test validation	1
+TIMEACT	3/2/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	03:56		Pre-csv validation	1
+TIMEACT	3/3/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Kara Van Malssen	2021 Services	""	01:00		Cortex review	1
+TIMEACT	3/3/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	02:39		Post-ingest validation scripting	1
+TIMEACT	3/4/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	01:19		CSV validation testing	1
+TIMEACT	3/4/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Rebecca Chandler	2021 Services	""	02:00		prep, digitization call, followup	1
+TIMEACT	3/4/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Kara Van Malssen	2021 Services	""	02:00		JFKLF Digitization Update with AVP, prep	1
+TIMEACT	3/5/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	00:30		OL/JFK check-in	1
+TIMEACT	3/7/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	01:50		Post-ingest validation scripts	1
+TIMEACT	3/9/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	04:02		Post-ingest validation scripts	1
+TIMEACT	3/10/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	00:48		JFK weekly check-in	1
+TIMEACT	3/12/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	00:30		OL/JFK check-in	1
+TIMEACT	3/16/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Kara Van Malssen	2021 Services	""	01:00		Cortex configurations audit	1
+TIMEACT	3/17/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	00:58		JFK weekly check-in	1
+TIMEACT	3/17/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Kara Van Malssen	2021 Services	""	01:00		DAMS - AVP Working Session	1
+TIMEACT	3/19/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	01:30		JFK/OL meeting, pre-ingest CSV validation	1
+TIMEACT	3/24/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	03:00		Pre-csv validation rewrite	1
+TIMEACT	3/24/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	01:00		JFK internal meeting	1
+TIMEACT	3/24/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Kara Van Malssen	2021 Services	""	01:00		Weekly team sync	1
+TIMEACT	3/26/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	02:30		Pre-ingest CSV validation testing, weekly OL/JFK call, API working session	1
+TIMEACT	3/29/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	03:30		Post-ingest validation scripts	1
+TIMEACT	3/31/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Rebecca Chandler	2021 Services	""	02:30		Cortex audit	1
+TIMEACT	3/31/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Shawn Averkamp	2021 Services	""	01:10		JFK weekly check-in	1
+TIMEACT	3/31/21	JFK LIBRARY FOUNDATION:2021 WORKPLAN	Kara Van Malssen	2021 Services	""	02:00		Cortex configuration	1

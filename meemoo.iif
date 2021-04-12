@@ -1,0 +1,12 @@
+!TIMERHDR	VER	REL	COMPANYNAME	IMPORTEDBEFORE	FROMTIMER	COMPANYCREATETIME
+TIMERHDR	 9	 0	AudioVisual Preservation Solutions, Inc.	N	Y	1235338105
+!TIMEACT	DATE	JOB	EMP	ITEM	PITEM	DURATION	PROJ	NOTE	BILLINGSTATUS
+TIMEACT	3/22/21	MEEMOO:VIAA AMS	Nouman Tayyab	Coding	""	01:30		AMSVIAA-1204 Error when using filters	1
+TIMEACT	3/30/21	MEEMOO:VIAA AMS	Nouman Tayyab	Coding	""	01:00		AMSVIAA-1205 Bulk edit format version is not working	1
+TIMEACT	3/30/21	MEEMOO:VIAA AMS	Nouman Tayyab	Coding	""	00:45		AMSVIAA-1200 Add format versions to DV and DVCAM	1
+TIMEACT	3/30/21	MEEMOO:VIAA AMS	Nouman Tayyab	Coding	""	00:45		AMSVIAA-1201 Digitization import dvd not correctly shown	1
+TIMEACT	3/30/21	MEEMOO:VIAA AMS	Nouman Tayyab	Coding	""	02:30		AMSVIAA-1206 Digitisation status not shown correctly in overview (DVD)	1
+TIMEACT	3/30/21	MEEMOO:INVENTORY REGISTRATION	Nouman Tayyab	Admin Create and Manage Projec	""	01:00		MIPPS-95 CP user cannot login	1
+TIMEACT	3/30/21	MEEMOO:MEEMOO INVENTORY APPLICATION TRANSLATION	Raza Saleem	Coding	""	04:00		MIPPS-94 Translation inventory tool to Dutch	1
+TIMEACT	3/31/21	MEEMOO:MEEMOO INVENTORY APPLICATION TRANSLATION	Raza Saleem	Coding	""	08:00		MIPPS-94 Translation inventory tool to Dutch	1
+TIMEACT	3/31/21	MEEMOO:VIAA AMS	Nouman Tayyab	Coding	""	01:15		AMSVIAA-1207 Make most recent Digitization Report default visible	1

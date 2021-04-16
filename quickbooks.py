@@ -5,7 +5,6 @@ import csv
 from array import *
 import json
 
-#Welcome message
 
 val = ""
 val1 = ""
@@ -14,9 +13,6 @@ newFile = ""
 file_Path = ""
 option = False
     
-
-
-
 headers = [""] * 0
 headersCont = {}
 data = [{}] * 0 #data array of dictionaries
@@ -26,10 +22,15 @@ count = 0
 
 
 
+
+
+
+
+#Initializes the field variables
 def new(headers, headersCont, data, newData, labels, count):
 
-    headers = headers
-    headersCont = headersCont
+    headers = headers #array to store third row in the file
+    headersCont = headersCont #array to store first two rows in the file
     data = data #data array of dictionaries
     newData = newData #data array of dictionaries
     labels = labels #header array of strings
@@ -41,8 +42,10 @@ def new(headers, headersCont, data, newData, labels, count):
 def readIn(count, val, newFile):
     temp = {}
     
+    fp = trimSpaces(val)
+    
     try:
-        with open(val, 'r') as csvfile:
+        with open(fp, 'r') as csvfile:
             spamreader = csv.reader(csvfile, delimiter='\t', quotechar='|')
 
             for row in spamreader:
@@ -75,7 +78,7 @@ def readIn(count, val, newFile):
 
 
 
-        
+#Modifies all values in ITEM to user input
 def change(newFile, val1, val, data):
 
     option1 = False
@@ -88,14 +91,13 @@ def change(newFile, val1, val, data):
             for d in range(0, len(data)):
                 data[d]["ITEM"] = val1
             option1 = True
-            writeOut(newFile, val, data)
             
             
     
         
 
 
-    
+#Migrates data to final array
 def delete(data):
     temp3 = {}
     for d in range(0, len(data)):
@@ -105,7 +107,7 @@ def delete(data):
 
 
             
-            
+#Computes the duration strings
 def calc(time1, time2):
     timeList = [] * 0
     timeList.append(time1)
@@ -124,20 +126,15 @@ def calc(time1, time2):
             
             
             
-            
+#Creates new file for user with all selected options
 def writeOut(newFile, val, data):
     delete(data)
     int = 0
         
     file_Path = getFilePath(val)
-    
-#    iif_file = filePath + newFile + "_qb.iif"
     iif_file = file_Path + "/" + newFile + "_qb.iif"
-    print(iif_file)
     
-#    for d in newData:
-#        print(d)
-   
+
     
     try:
         with open(iif_file, 'w') as csvfile: #writing the new file
@@ -168,7 +165,8 @@ def writeOut(newFile, val, data):
     option1 = False
     while option1 == False:
         if ans == "a":
-            
+            clear = lambda: os.system('clear')
+            clear()
             start(val1, count, False)
             option1 = True
             
@@ -181,10 +179,11 @@ def writeOut(newFile, val, data):
 
 
 
+#Checks for duplicate strings
 def dedup(string1, string2):
 
-    stringParts = [string1.split("; ")]
-    
+    stringParts = string1.split("; ")
+
     if stringParts[len(stringParts)-1] == string2:
         return True
         
@@ -192,22 +191,26 @@ def dedup(string1, string2):
         return False
         
         
+#Trim whitespaces in filepath
+def trimSpaces(filePath):
+    filePath = filePath.replace(" ", "")
+    temp_ = filePath
+    return temp_
         
         
-        
+#Returns the file name without the filepath
 def getFileName(filePath):
-
     stringParts = [filePath.split("/")]
     result = ""
     result = stringParts[len(stringParts)-1]
-#    print(result)
     return result
 
 
+#Returns filepath without the file name
 def getFilePath(filePath):
-
+    
+    filePath = trimSpaces(filePath)
     stringParts = filePath.split("/")
-#    print(stringParts)
     leng = len(stringParts)
     result = ""
     temp_1 = ""
@@ -222,16 +225,18 @@ def getFilePath(filePath):
             
 
     
+#Modifies all NOTE values to be identical to ITEM values
 def taskNote():
     temp = ""
     for d in range(0, len(data)):
-        temp = data[d]["ITEM"]
-        data[d]["NOTE"] = data[d]["ITEM"]
-        temp = ""
+        if data[d] != None:
+            temp = data[d]["ITEM"]
+            data[d]["NOTE"] = data[d]["ITEM"]
+            temp = ""
         
     
     
-        
+#Consolidates
 def modifi(newFile, data, val): #Method to modify data in dictionary array
     temp2 = {}
     temp3 = ""
@@ -253,7 +258,7 @@ def modifi(newFile, data, val): #Method to modify data in dictionary array
                         temp4 = data[e]["EMP"]
                         temp5 = data[d]["NOTE"]
                         temp6 = data[e]["NOTE"]
-                        
+                                                
             
                         if data[d]["ITEM"] == data[e]["ITEM"] and data[d]["DATE"] == data[e]["DATE"]:
                         
@@ -302,15 +307,15 @@ def modifi(newFile, data, val): #Method to modify data in dictionary array
                         print("One or more jobs differ. Please enter another file.")
                         exit()
     
-    writeOut(newFile, val, data)
                         
                         
 
 
 
-
+#Third option
 def start3(val, newFile):
 
+        print("\n\n\n\n\n\n")
         ans2 = raw_input("Would you like to copy ITEM values to NOTE values? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n")
         option4 = False
         
@@ -318,31 +323,28 @@ def start3(val, newFile):
         
             if ans2 == "a": #Option 3
                 option4 = True
-                readIn(count, val, newFile)
                 taskNote()
                 writeOut(newFile, val, data)
                 
             elif ans2 == "b": #No option selected
                 option4 = True
-                readIn(count, val, newFile)
                 writeOut(newFile, val, data)
                 print("No Option was selected.\n\nGoodbye!\n\n")
-                exit()
+                
                 
             elif ans2 == "c":
                 print("\n\nGoodbye!\n\n")
                 exit()
                 
             else: #Error
-                print("Invalid input try again\n \n")
+                print("Invalid input try again\n\n")
                 ans = raw_input("Would you like to consolidate rows where date/task match? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n")
 
 
-
+#Second option
 def start2(val, newFile):
-    print("In the start2 method")
-#    print(val)
-
+    
+    print("\n\n\n\n\n\n")
     ans1 = raw_input("Would you like to consolidate rows by DATE and ITEM? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n")
     option2 = False
     
@@ -350,8 +352,8 @@ def start2(val, newFile):
     
         if ans1 == "a": #Option 2
             option2 = True
-            readIn(count, val, newFile)
             modifi(newFile, data, val)
+            start3(val, newFile)
             
         elif ans1 == "b": #Option 3
             option2 = True
@@ -367,7 +369,7 @@ def start2(val, newFile):
 
 
 
-
+#First option
 def start(val1, count, option):
     
     del data[:]
@@ -378,28 +380,28 @@ def start(val1, count, option):
     fileName = ""
     
     new(headers, headersCont, data, newData, labels, count)
-
+    
+    print("\n\n\n\n\n\n")
     
     #Retreiving the user input
-    val = raw_input("Please enter the full path of the iif file (NO SPACES) with the (.iif) extension or drag and drop the file into the terminal: ")
+    val = raw_input("Please enter the full path of the iif file (NO SPACES) with the (.iif) extension or drag and drop the file into the terminal\n\n\n\n\n\n: ")
 
-    print("\n \n")
+    print("\n\n\n\n\n\n")
 
     newFile = raw_input("Enter the desired name for the new file without the (_qb) addition and (.iif) extension. For example, 'new', but 'new_qb.iif'.\n: ")
 
-    print("\n \n")
+    print("\n\n\n\n\n\n")
 
     ans = raw_input("Would you like to rename all ITEM values (i.e. Tasks) tasks to a single value? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n: ")
     
-    
 
-
+    readIn(count, val, newFile)
 
     while option == False:
         if ans == "a": #Option 1
             option = True
-            readIn(count, val, newFile)
             change(newFile, val1, val, data)
+            start2(val, newFile)
             
             
         elif ans == "b": #Option 2
@@ -416,8 +418,12 @@ def start(val1, count, option):
 
 
 
-        
-print("\nWelcome to the Harvest Quickbooks Converter!!! \n \n")
+#Clears terminal console
+clear = lambda: os.system('clear')
+clear()
+
+#Welcome Message
+print("\nWelcome to the Harvest Quickbooks Converter!!! \n\n")
 start(val1, count, option)
         
         

@@ -304,8 +304,10 @@ def modifi(newFile, data, val): #Method to modify data in dictionary array
                         temp4 = ""
                         
                     else:
+                        clear = lambda: os.system('clear')
+                        clear()
                         print("One or more jobs differ. Please enter another file.")
-                        exit()
+                        start(val1, count, option)
     
                         
                         
@@ -384,7 +386,7 @@ def start(val1, count, option):
     print("\n\n\n\n\n\n")
     
     #Retreiving the user input
-    val = raw_input("Please enter the full path of the iif file (NO SPACES) with the (.iif) extension or drag and drop the file into the terminal\n\n\n\n\n\n: ")
+    val = raw_input("Please enter the full path of the iif file with the (.iif) extension or drag and drop the file into the terminal\n\n\n\n\n\n: ")
 
     print("\n\n\n\n\n\n")
 

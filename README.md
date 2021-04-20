@@ -43,26 +43,17 @@ python quickbooks.py
 ```
 
 
-
-4) Run the output file:
-
-```bash
-./a.out
-```
-
-
-
-5) Locate the .iif file you want to modify. You will be prompted to enter the file path of the file. Drag the file into terminal to enter the file path.
+4) Locate the .iif file you want to modify. You will be prompted to enter the file path of the file. Drag the file into terminal to enter the file path.
 
 
 
 
-6) Enter the desired file name of the output file without including the .iif extension or _qb addition.
+5) Enter the desired file name of the output file without including the .iif extension or _qb addition.
 
 
 
 
-7) Choose the following options. Possible combinations are (a, b, c), (a, b), (a, c), (b, c), (a), (b), and (c):
+6) Choose the following options. Possible combinations are (a, b, c), (a, b), (a, c), (b, c), (a), (b), and (c):
 
     a) Rename all Item values to a single value.
 
@@ -73,9 +64,9 @@ python quickbooks.py
     
     
     
-8) A new .iif file is created with the added modifications. If no option was selected, the output file will be the same as the input. The new file should be in the same directory as the original file.
+7) A new .iif file is created with the added modifications. If no option was selected, the output file will be the same as the input. The new file should be in the same directory as the original file.
 
 
 
 
-9) To convert another file, enter "a". Otherwise, enter "b", to exit program.
+8) To convert another file, enter "a". Otherwise, enter "b", to exit program.

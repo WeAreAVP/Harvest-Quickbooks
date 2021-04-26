@@ -72,7 +72,7 @@ def readIn(count, val, newFile):
                 count += 1
             count = 0
     except:
-        print("An error occurred. Please make sure there are no spaces.\n\n")
+        print("An error occurred.\n\n")
         start(val1, count, option)
 
 
@@ -155,7 +155,7 @@ def writeOut(newFile, val, data):
         print("I/O error") #Error message
         
     print("\n\nYour file has successfully been converted!\n\n")
-    ans = raw_input("Would you like to convert another file? \n \nEnter 'a' for Yes\nEnter 'b' for No\n\n\n: ")
+    ans = raw_input("Would you like to convert another file? \n \nEnter 'y' for Yes\nEnter 'n' for No\n\n\n: ")
     
     del data[:]
     del newData[:]
@@ -164,18 +164,18 @@ def writeOut(newFile, val, data):
     
     option1 = False
     while option1 == False:
-        if ans == "a":
+        if ans == "y":
             clear = lambda: os.system('clear')
             clear()
             start(val1, count, False)
             option1 = True
             
-        elif ans == "b":
+        elif ans == "n":
             print("\n\nGoodbye!\n\n")
             exit()
         else:
             print("Invalid input try again\n \n")
-            ans = raw_input("Would you like to convert another file? \n \nEnter 'a' for Yes\nEnter 'b' for No\n\n\n: ")
+            ans = raw_input("Would you like to convert another file? \n \nEnter 'y' for Yes\nEnter 'n' for No\n\n\n: ")
 
 
 
@@ -315,20 +315,22 @@ def modifi(newFile, data, val): #Method to modify data in dictionary array
 
 
 #Third option
-def start3(val, newFile):
+def start3(val, val1, newFile):
 
         print("\n\n\n\n\n\n")
-        ans2 = raw_input("Would you like to copy ITEM values to NOTE values? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n")
+#        ans2 = raw_input("Would you like to copy ITEM values to NOTE values? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n")
+        ans2 = raw_input("Would you like to rename all ITEM values (i.e. Tasks) tasks to a single value? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n: ")
         option4 = False
         
         while option4 == False:
         
-            if ans2 == "a": #Option 3
+            if ans2 == "y": #Option 3
                 option4 = True
-                taskNote()
+#                taskNote()
+                change(newFile, val1, val, data)
                 writeOut(newFile, val, data)
                 
-            elif ans2 == "b": #No option selected
+            elif ans2 == "n": #No option selected
                 option4 = True
                 writeOut(newFile, val, data)
                 print("No Option was selected.\n\nGoodbye!\n\n")
@@ -340,26 +342,26 @@ def start3(val, newFile):
                 
             else: #Error
                 print("Invalid input try again\n\n")
-                ans = raw_input("Would you like to consolidate rows where date/task match? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n")
+                ans = raw_input("Would you like to rename all ITEM values (i.e. Tasks) tasks to a single value? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n: ")
 
 
 #Second option
-def start2(val, newFile):
+def start2(val, val1, newFile):
     
     print("\n\n\n\n\n\n")
-    ans1 = raw_input("Would you like to consolidate rows by DATE and ITEM? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n")
+    ans1 = raw_input("Would you like to consolidate rows by DATE and ITEM? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n")
     option2 = False
     
     while option2 == False:
     
-        if ans1 == "a": #Option 2
+        if ans1 == "y": #Option 2
             option2 = True
             modifi(newFile, data, val)
-            start3(val, newFile)
+            start3(val, val1, newFile)
             
-        elif ans1 == "b": #Option 3
+        elif ans1 == "n": #Option 3
             option2 = True
-            start3(val, newFile)
+            start3(val, val1, newFile)
             
         elif ans1 == "c":
             print("\n\nGoodbye!\n\n")
@@ -367,7 +369,7 @@ def start2(val, newFile):
             
         else: #Error
             print("Invalid input try again\n \n")
-            ans = raw_input("Would you like to consolidate rows by DATE and ITEM? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n")
+            ans = raw_input("Would you like to consolidate rows by DATE and ITEM? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n")
 
 
 
@@ -394,21 +396,23 @@ def start(val1, count, option):
 
     print("\n\n\n\n\n\n")
 
-    ans = raw_input("Would you like to rename all ITEM values (i.e. Tasks) tasks to a single value? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n: ")
+#    ans = raw_input("Would you like to rename all ITEM values (i.e. Tasks) tasks to a single value? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n: ")
+    ans = raw_input("Would you like to copy ITEM values to NOTE values? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n")
     
 
     readIn(count, val, newFile)
 
     while option == False:
-        if ans == "a": #Option 1
+        if ans == "y": #Option 1
             option = True
-            change(newFile, val1, val, data)
-            start2(val, newFile)
+            taskNote()
+#            change(newFile, val1, val, data)
+            start2(val, val1, newFile)
             
             
-        elif ans == "b": #Option 2
+        elif ans == "n": #Option 2
             option = True
-            start2(val, newFile)
+            start2(val, val1, newFile)
             
         elif ans == "c":
             print("\n\nGoodbye!\n\n")
@@ -416,7 +420,8 @@ def start(val1, count, option):
             
         else: #Error
             print("Invalid input try again\n \n")
-            ans = raw_input("Would you like to rename all ITEM values (i.e. Tasks) tasks to a single value? \n \nEnter 'a' for Yes\nEnter 'b' for No\n\n: ")
+#            ans = raw_input("Would you like to rename all ITEM values (i.e. Tasks) tasks to a single value? \n \nEnter 'a' for Yes\nEnter 'b' for No\n\n: ")
+            ans = raw_input("Would you like to copy ITEM values to NOTE values? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n")
 
 
 

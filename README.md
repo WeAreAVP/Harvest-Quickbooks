@@ -55,11 +55,11 @@ python quickbooks.py
 
 6) Choose the following options. Possible combinations are (a, b, c), (a, b), (a, c), (b, c), (a), (b), and (c):
 
-    a) Rename all Item values to a single value.
+    a) Copy ITEM values to NOTE values.
 
     b) Consolidate data by Item and Day.
     
-    c) Rename all ITEM values to a single value.
+    c) Rename all Item values to a single value.
     
     
     
@@ -69,4 +69,4 @@ python quickbooks.py
 
 
 
-8) To convert another file, enter "a". Otherwise, enter "b", to exit program.
+8) To convert another file, enter "y". Otherwise, enter "n", to exit program.

@@ -89,7 +89,9 @@ def change(newFile, val1, val, data):
 
         else:
             for d in range(0, len(data)):
-                data[d]["ITEM"] = val1
+                print(val1)
+                if data[d] != None:
+                    data[d]["ITEM"] = val1
             option1 = True
             
             
@@ -319,7 +321,7 @@ def start3(val, val1, newFile):
 
         print("\n\n\n\n\n\n")
 #        ans2 = raw_input("Would you like to copy ITEM values to NOTE values? \n \nEnter 'a' for Yes\nEnter 'b' for No\nEnter 'c' for Cancel\n\n")
-        ans2 = raw_input("Would you like to rename all ITEM values (i.e. Tasks) tasks to a single value? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n: ")
+        ans2 = raw_input("Would you like to rename all ITEM values (i.e. Tasks) to a single value? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n: ")
         option4 = False
         
         while option4 == False:
@@ -342,7 +344,7 @@ def start3(val, val1, newFile):
                 
             else: #Error
                 print("Invalid input try again\n\n")
-                ans = raw_input("Would you like to rename all ITEM values (i.e. Tasks) tasks to a single value? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n: ")
+                ans = raw_input("Would you like to rename all ITEM values (i.e. Tasks) to a single value? \n \nEnter 'y' for Yes\nEnter 'n' for No\nEnter 'c' for Cancel\n\n: ")
 
 
 #Second option

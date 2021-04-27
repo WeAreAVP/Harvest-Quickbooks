@@ -89,7 +89,6 @@ def change(newFile, val1, val, data):
 
         else:
             for d in range(0, len(data)):
-                print(val1)
                 if data[d] != None:
                     data[d]["ITEM"] = val1
             option1 = True
